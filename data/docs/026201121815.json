@@ -1,0 +1,18 @@
+{
+ "ref": "026201121815",
+ "refDisplay": "0262 01 121815",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARTER CYLINDRE ALUMINIUM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

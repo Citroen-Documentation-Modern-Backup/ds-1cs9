@@ -1,0 +1,18 @@
+{
+ "ref": "026207841110",
+ "refDisplay": "0262 07 841110",
+ "title": "PORTES AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES DEPUIS OPR 05315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  }
+ ]
+}

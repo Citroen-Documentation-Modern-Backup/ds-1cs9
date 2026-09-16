@@ -1,0 +1,18 @@
+{
+ "ref": "026207008010",
+ "refDisplay": "0262 07 008010",
+ "title": "CAISSE",
+ "nature": "",
+ "applicability": "BERLINE 5PTES JUSQU’A OPR 05045",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0146"
+  }
+ ]
+}

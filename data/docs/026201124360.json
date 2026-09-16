@@ -1,0 +1,18 @@
+{
+ "ref": "026201124360",
+ "refDisplay": "0262 01 124360",
+ "title": "SOUPAPES-CULBUTEURS-GRAINS DE REGLAGE",
+ "nature": "",
+ "applicability": "DIESEL ET TUD5",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

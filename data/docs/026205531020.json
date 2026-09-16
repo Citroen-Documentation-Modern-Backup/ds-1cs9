@@ -1,0 +1,18 @@
+{
+ "ref": "026205531020",
+ "refDisplay": "0262 05 531020",
+ "title": "BATTERIE",
+ "nature": "",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0305"
+  }
+ ]
+}

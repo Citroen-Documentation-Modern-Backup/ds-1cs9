@@ -1,0 +1,18 @@
+{
+ "ref": "026208922666",
+ "refDisplay": "0262 08 922666",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "AUDACE ET TISSU LANKA + VELOURS KARA \"EE\" DEPUIS OPR 07238",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

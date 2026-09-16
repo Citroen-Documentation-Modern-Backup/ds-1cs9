@@ -1,0 +1,19 @@
+{
+ "ref": "1CS904180951",
+ "refDisplay": "1CS9 0 418 0951",
+ "title": "CABLE DE COMPTEUR (COTE BV)",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "026205531501A",
+ "refDisplay": "0262 05 531501A",
+ "title": "CABLES BATTERIE",
+ "nature": "",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

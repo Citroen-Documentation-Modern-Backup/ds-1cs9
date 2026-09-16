@@ -1,0 +1,23 @@
+{
+ "ref": "026207842020A",
+ "refDisplay": "0262 07 842020A",
+ "title": "RETROVISEUR EXTERIEUR",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0331"
+  }
+ ]
+}

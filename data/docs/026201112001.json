@@ -1,0 +1,18 @@
+{
+ "ref": "026201112001",
+ "refDisplay": "0262 01 112001",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L JUSQU’A OPR 07609",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026203422120",
+ "refDisplay": "0262 03 422120",
+ "title": "TRAVERSE ARRIERE",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026208922657",
+ "refDisplay": "0262 08 922657",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "DOLLY ET (I) ITALIE DEPUIS OPR 05957 JUSQU’A OPR 06078",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

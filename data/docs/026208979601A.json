@@ -1,0 +1,18 @@
+{
+ "ref": "026208979601A",
+ "refDisplay": "0262 08 979601A",
+ "title": "GARNITURES INTERIEURES",
+ "nature": "",
+ "applicability": "BERLINE 3PTES DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

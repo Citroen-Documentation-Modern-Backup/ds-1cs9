@@ -1,0 +1,18 @@
+{
+ "ref": "026202532557E",
+ "refDisplay": "0262 02 532557E",
+ "title": "ALTERNATEUR - DETAILS",
+ "nature": "",
+ "applicability": "CLIMATISEUR JUSQU’A OPR 04557",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

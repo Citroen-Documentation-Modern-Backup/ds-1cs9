@@ -1,0 +1,18 @@
+{
+ "ref": "026201231040",
+ "refDisplay": "0262 01 231040",
+ "title": "POMPE A EAU",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

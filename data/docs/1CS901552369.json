@@ -1,0 +1,19 @@
+{
+ "ref": "1CS901552369",
+ "refDisplay": "1CS9 0 155 2369",
+ "title": "BARRE DE TORSION AR 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

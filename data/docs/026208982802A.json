@@ -1,0 +1,18 @@
+{
+ "ref": "026208982802A",
+ "refDisplay": "0262 08 982802A",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET GT DEPUIS OPR 03979 JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

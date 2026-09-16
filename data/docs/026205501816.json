@@ -1,0 +1,18 @@
+{
+ "ref": "026205501816",
+ "refDisplay": "0262 05 501816",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "GT ET GTI ET CONDUITE A DROITE DEPUIS OPR 05315 JUSQU’A OPR 05991",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

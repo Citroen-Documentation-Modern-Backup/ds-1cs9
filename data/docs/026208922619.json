@@ -1,0 +1,18 @@
+{
+ "ref": "026208922619",
+ "refDisplay": "0262 08 922619",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "PTT ET GA DEPUIS OPR 05075",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

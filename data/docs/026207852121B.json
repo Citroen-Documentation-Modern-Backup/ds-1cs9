@@ -1,0 +1,28 @@
+{
+ "ref": "026207852121B",
+ "refDisplay": "0262 07 852121B",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "TONIC 2 DEPUIS OPR 07112",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

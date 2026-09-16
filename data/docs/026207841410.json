@@ -1,0 +1,23 @@
+{
+ "ref": "026207841410",
+ "refDisplay": "0262 07 841410",
+ "title": "VITRE - LEVE VITRE DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

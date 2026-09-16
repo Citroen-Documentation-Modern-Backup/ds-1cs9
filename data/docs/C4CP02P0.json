@@ -1,0 +1,20 @@
+{
+ "ref": "C4CP02P0",
+ "refDisplay": "C4CP02P0",
+ "title": "Pose : renfort pied avant",
+ "nature": "Pose",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0126"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CS904635176",
+ "refDisplay": "1CS9 0 463 5176",
+ "title": "LAMPE ECLAIRAGE COMMANDE CHAUFFAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

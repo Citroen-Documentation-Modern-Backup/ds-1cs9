@@ -1,0 +1,18 @@
+{
+ "ref": "026202140024G",
+ "refDisplay": "0262 02 140024G",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET GT ET CLIMATISEUR ET CANISTER DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

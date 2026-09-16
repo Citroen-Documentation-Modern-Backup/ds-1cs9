@@ -1,0 +1,18 @@
+{
+ "ref": "026206641210A",
+ "refDisplay": "0262 06 641210A",
+ "title": "BOITIER PULSEUR DE CLIMATISATION",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION DEPUIS OPR 05014 JUSQU’A OPR 05314",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

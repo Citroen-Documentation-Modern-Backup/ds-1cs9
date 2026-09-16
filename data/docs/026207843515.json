@@ -1,0 +1,23 @@
+{
+ "ref": "026207843515",
+ "refDisplay": "0262 07 843515",
+ "title": "CUSTODE",
+ "nature": "",
+ "applicability": "BERLINE 5PTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

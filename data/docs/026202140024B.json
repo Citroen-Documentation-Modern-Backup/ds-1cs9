@@ -1,0 +1,18 @@
+{
+ "ref": "026202140024B",
+ "refDisplay": "0262 02 140024B",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET GT ET CLIMATISEUR ET CARTER CYLINDRE ALUMINIUM JUSQU’A OPR 05251",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

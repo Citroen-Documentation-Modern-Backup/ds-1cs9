@@ -1,0 +1,28 @@
+{
+ "ref": "026207852155",
+ "refDisplay": "0262 07 852155",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "FLASH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026208982903",
+ "refDisplay": "0262 08 982903",
+ "title": "PANNEAUX DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": "FINIT. TR JUSQU’A OPR 04467",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0141"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026208934471",
+ "refDisplay": "0262 08 934471",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET (GB) GRANDE-BRETAGNE DEPUIS OPR 05806 JUSQU’A OPR 06027",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

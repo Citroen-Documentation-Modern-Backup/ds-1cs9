@@ -1,0 +1,28 @@
+{
+ "ref": "026207852109",
+ "refDisplay": "0262 07 852109",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "STILO ET (E) ESPAGNE JUSQU’A OPR 05318",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

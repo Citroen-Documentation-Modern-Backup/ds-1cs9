@@ -1,0 +1,28 @@
+{
+ "ref": "026206643601",
+ "refDisplay": "0262 06 643601",
+ "title": "RECHAUFFEUR D’EAU",
+ "nature": "",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0349"
+  }
+ ]
+}

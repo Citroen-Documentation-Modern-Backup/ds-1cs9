@@ -1,0 +1,28 @@
+{
+ "ref": "026207852147",
+ "refDisplay": "0262 07 852147",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "AUDACE JUSQU’A OPR 07237",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

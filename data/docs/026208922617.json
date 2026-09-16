@@ -1,0 +1,18 @@
+{
+ "ref": "026208922617",
+ "refDisplay": "0262 08 922617",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "THALASSA JUSQU’A OPR 04953",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

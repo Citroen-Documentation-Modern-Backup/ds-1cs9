@@ -1,0 +1,19 @@
+{
+ "ref": "1CS902771305",
+ "refDisplay": "1CS9 0 277 1305",
+ "title": "TUBE ASPIRATION ENTRE RESERVOIR LHMET POMPE HP",
+ "nature": "",
+ "applicability": "(EXAE) AX BERLINE 3PTES MOTEUR ELECTRIQUE SA13 ENTREPRISE OU (EXA3) AX BERLINE 3PTES MOTEUR ELECTRIQUE SA13",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

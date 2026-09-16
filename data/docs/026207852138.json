@@ -1,0 +1,28 @@
+{
+ "ref": "026207852138",
+ "refDisplay": "0262 07 852138",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET 4X4 ET PISTE ROUGE JUSQU’A OPR 05655",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

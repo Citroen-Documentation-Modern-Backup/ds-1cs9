@@ -1,0 +1,18 @@
+{
+ "ref": "026208922639",
+ "refDisplay": "0262 08 922639",
+ "title": "MATELASSURE ASSISE AV - COIFFE",
+ "nature": "",
+ "applicability": "GT DEPUIS OPR 05285 JUSQU’A OPR 06019",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026202532015",
+ "refDisplay": "0262 02 532015",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "TOUS TYPES ET ESSENCE ET CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

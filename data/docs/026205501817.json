@@ -1,0 +1,18 @@
+{
+ "ref": "026205501817",
+ "refDisplay": "0262 05 501817",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "ESSENCE DEPUIS OPR 05992 JUSQU’A OPR 06383 SAUF SPORT 1 SAUF GTI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

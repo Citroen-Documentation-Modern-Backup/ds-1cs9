@@ -1,0 +1,18 @@
+{
+ "ref": "026206183017",
+ "refDisplay": "0262 06 183017",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARBURATEUR JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

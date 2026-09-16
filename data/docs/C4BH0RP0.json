@@ -1,0 +1,20 @@
+{
+ "ref": "C4BH0RP0",
+ "refDisplay": "C4BH0RP0",
+ "title": "Remplacement partiel : panneau arrière ",
+ "nature": "Remplacement",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

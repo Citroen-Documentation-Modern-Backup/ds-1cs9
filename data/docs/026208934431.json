@@ -1,0 +1,18 @@
+{
+ "ref": "026208934431",
+ "refDisplay": "0262 08 934431",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "GT ET BANQ RABAT DOSSIERS SEPARES DEPUIS OPR 03949 JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

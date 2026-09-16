@@ -1,0 +1,18 @@
+{
+ "ref": "026205521330",
+ "refDisplay": "0262 05 521330",
+ "title": "COMBINE DE BORD - ACCESSOIRES",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS OPR 05285 SAUF MOTEUR ELECTRIQUE SA13",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026201114301",
+ "refDisplay": "0262 01 114301",
+ "title": "CARTER DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "ESSENCE ET CARTER CYLINDRE ALUMINIUM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

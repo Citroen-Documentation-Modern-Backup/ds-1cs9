@@ -1,0 +1,20 @@
+{
+ "ref": "B2CB0AP0",
+ "refDisplay": "B2CB0AP0",
+ "title": "Caractéristiques : boîte de vitesses  , année modèle 1994",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

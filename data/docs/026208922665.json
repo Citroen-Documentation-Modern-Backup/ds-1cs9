@@ -1,0 +1,18 @@
+{
+ "ref": "026208922665",
+ "refDisplay": "0262 08 922665",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "TONIC 2 ET TISSU CHIMERE \"EL\" DEPUIS OPR 07112",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

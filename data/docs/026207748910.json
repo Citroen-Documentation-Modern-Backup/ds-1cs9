@@ -1,0 +1,18 @@
+{
+ "ref": "026207748910",
+ "refDisplay": "0262 07 748910",
+ "title": "PLANCHER DE CHARGE, CLOISON SEPARATION",
+ "nature": "",
+ "applicability": "ENTREPRISE SAUF ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

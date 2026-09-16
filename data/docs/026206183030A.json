@@ -1,0 +1,18 @@
+{
+ "ref": "026206183030A",
+ "refDisplay": "0262 06 183030A",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "INJECTION ET TU1M DEPUIS OPR 05715 SAUF 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

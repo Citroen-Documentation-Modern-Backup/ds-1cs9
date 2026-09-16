@@ -1,0 +1,18 @@
+{
+ "ref": "026203434220",
+ "refDisplay": "0262 03 434220",
+ "title": "AMORTISSEUR AVANT - RESSORT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 05278 SAUF INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0027"
+  }
+ ]
+}

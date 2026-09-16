@@ -1,0 +1,18 @@
+{
+ "ref": "026205501102",
+ "refDisplay": "0262 05 501102",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "SPORT ET GT JUSQU’A OPR 05277",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

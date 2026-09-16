@@ -1,0 +1,18 @@
+{
+ "ref": "026205501111",
+ "refDisplay": "0262 05 501111",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "GAZOLE DEPUIS OPR 06083 JUSQU’A OPR 06383",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

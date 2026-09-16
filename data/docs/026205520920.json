@@ -1,0 +1,18 @@
+{
+ "ref": "026205520920",
+ "refDisplay": "0262 05 520920",
+ "title": "COMBINE DE BORD COMPLET",
+ "nature": "",
+ "applicability": "GAZOLE ET CONDUITE A GAUCHE DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

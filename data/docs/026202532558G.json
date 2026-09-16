@@ -1,0 +1,18 @@
+{
+ "ref": "026202532558G",
+ "refDisplay": "0262 02 532558G",
+ "title": "ALTERNATEUR - DETAILS",
+ "nature": "",
+ "applicability": "CLIMATISEUR DEPUIS OPR 04558",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026208982813",
+ "refDisplay": "0262 08 982813",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 5PTES ET ALLURE ET FINIT. TR DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

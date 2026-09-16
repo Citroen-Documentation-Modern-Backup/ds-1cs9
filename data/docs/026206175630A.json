@@ -1,0 +1,18 @@
+{
+ "ref": "026206175630A",
+ "refDisplay": "0262 06 175630A",
+ "title": "DEPOLLUTION",
+ "nature": "",
+ "applicability": "INJECTION ET TU3FJ ET DEPOLLUE DEPUIS OPR 05715",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

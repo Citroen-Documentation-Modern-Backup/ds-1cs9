@@ -1,0 +1,18 @@
+{
+ "ref": "026202140029Y",
+ "refDisplay": "0262 02 140029Y",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

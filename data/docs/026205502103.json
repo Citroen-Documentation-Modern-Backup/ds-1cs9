@@ -1,0 +1,18 @@
+{
+ "ref": "026205502103",
+ "refDisplay": "0262 05 502103",
+ "title": "FAISCEAU D’HABITACLE - PLAFONNIER",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05315 SAUF GT SAUF GTI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026205501103",
+ "refDisplay": "0262 05 501103",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "1,360L ET GAZOLE JUSQU’A OPR 05277",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

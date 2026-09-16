@@ -1,0 +1,18 @@
+{
+ "ref": "026206642215",
+ "refDisplay": "0262 06 642215",
+ "title": "GROUPE DE CHAUFFAGE",
+ "nature": "",
+ "applicability": "REFRIGERATION ET CONDUITE A GAUCHE DEPUIS OPR 05315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

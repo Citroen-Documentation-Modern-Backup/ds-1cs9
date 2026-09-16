@@ -1,0 +1,18 @@
+{
+ "ref": "026208982801",
+ "refDisplay": "0262 08 982801",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET OLYMPIQUE ET TONIC ET SPOT JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

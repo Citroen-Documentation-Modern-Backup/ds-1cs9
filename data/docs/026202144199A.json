@@ -1,0 +1,18 @@
+{
+ "ref": "026202144199A",
+ "refDisplay": "0262 02 144199A",
+ "title": "DISPOSITIF DE DOSAGE",
+ "nature": "",
+ "applicability": "TU1M ET BICARBURATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

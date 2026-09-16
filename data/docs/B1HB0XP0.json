@@ -1,0 +1,20 @@
+{
+ "ref": "B1HB0XP0",
+ "refDisplay": "B1HB0XP0",
+ "title": "Caractéristiques - identification  : circuits de préchauffage et postchauffage",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0304"
+  }
+ ]
+}

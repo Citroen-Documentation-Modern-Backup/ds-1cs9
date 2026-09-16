@@ -1,0 +1,18 @@
+{
+ "ref": "026202140003",
+ "refDisplay": "0262 02 140003",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "1,360L ET ESSENCE ET CARTER CYLINDRE FONTE DEPUIS OPR 05278",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

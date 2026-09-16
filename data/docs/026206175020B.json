@@ -1,0 +1,18 @@
+{
+ "ref": "026206175020B",
+ "refDisplay": "0262 06 175020B",
+ "title": "RESERVOIR CARBURANT",
+ "nature": "",
+ "applicability": "INJ MONOPOINT DEPUIS OPR 05715",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026202212035A",
+ "refDisplay": "0262 02 212035A",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET INJ MONOPOINT DEPUIS OPR 05657 JUSQU’A OPR 06884",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

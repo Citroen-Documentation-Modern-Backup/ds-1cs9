@@ -1,0 +1,18 @@
+{
+ "ref": "026201343020",
+ "refDisplay": "0262 01 343020",
+ "title": "DIFFERENTIEL",
+ "nature": "",
+ "applicability": "GAZOLE ET MA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

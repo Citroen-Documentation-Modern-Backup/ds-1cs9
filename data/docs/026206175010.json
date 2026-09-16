@@ -1,0 +1,18 @@
+{
+ "ref": "026206175010",
+ "refDisplay": "0262 06 175010",
+ "title": "RESERVOIR CARBURANT",
+ "nature": "",
+ "applicability": "CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

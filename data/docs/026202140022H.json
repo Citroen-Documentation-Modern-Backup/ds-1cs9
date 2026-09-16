@@ -1,0 +1,18 @@
+{
+ "ref": "026202140022H",
+ "refDisplay": "0262 02 140022H",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "1,124L ET (CH) SUISSE ET (A) AUTRICHE ET (S) SUEDE ET (D) ALLEMAGNE JUSQU’A OPR 04102",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

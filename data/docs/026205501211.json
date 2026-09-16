@@ -1,0 +1,18 @@
+{
+ "ref": "026205501211",
+ "refDisplay": "0262 05 501211",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "INJ MONOPOINT DEPUIS OPR 05315 JUSQU’A OPR 06747",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

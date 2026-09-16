@@ -1,0 +1,18 @@
+{
+ "ref": "026205571510",
+ "refDisplay": "0262 05 571510",
+ "title": "CONDAMNATION CENTRALISEE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0325"
+  }
+ ]
+}

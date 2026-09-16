@@ -1,0 +1,23 @@
+{
+ "ref": "026208980205",
+ "refDisplay": "0262 08 980205",
+ "title": "GARNITURE DE COFFRE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0122"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

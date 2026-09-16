@@ -1,0 +1,19 @@
+{
+ "ref": "1CS90225078",
+ "refDisplay": "1CS9 0 22 5078",
+ "title": "RACCORD 2 VOIES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

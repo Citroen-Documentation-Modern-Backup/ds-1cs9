@@ -1,0 +1,18 @@
+{
+ "ref": "026201114360",
+ "refDisplay": "0262 01 114360",
+ "title": "CARTER DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "DIESEL ET TUD5 JUSQU’A OPR 07341",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

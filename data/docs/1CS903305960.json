@@ -1,0 +1,24 @@
+{
+ "ref": "1CS903305960",
+ "refDisplay": "1CS9 0 330 5960",
+ "title": "VITRE CUSTODE 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

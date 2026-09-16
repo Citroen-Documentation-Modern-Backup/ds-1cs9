@@ -1,0 +1,18 @@
+{
+ "ref": "026206184810A",
+ "refDisplay": "0262 06 184810A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05715 SAUF DIESEL SAUF 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

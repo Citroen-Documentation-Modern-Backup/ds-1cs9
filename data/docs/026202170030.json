@@ -1,0 +1,18 @@
+{
+ "ref": "026202170030",
+ "refDisplay": "0262 02 170030",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET INJ MONOPOINT JUSQU’A OPR 05957",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

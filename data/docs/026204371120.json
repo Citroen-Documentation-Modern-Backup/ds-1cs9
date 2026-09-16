@@ -1,0 +1,18 @@
+{
+ "ref": "026204371120",
+ "refDisplay": "0262 04 371120",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "TU3FJ ET ANTI-BLOCAGE ROUE DEPUIS DATE 19930301",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

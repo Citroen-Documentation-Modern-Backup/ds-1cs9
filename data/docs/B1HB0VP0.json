@@ -1,0 +1,25 @@
+{
+ "ref": "B1HB0VP0",
+ "refDisplay": "B1HB0VP0",
+ "title": "Caractéristiques - identifications : injecteurs , équipement LUCAS DIESEL",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

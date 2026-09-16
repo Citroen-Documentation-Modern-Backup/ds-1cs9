@@ -1,0 +1,23 @@
+{
+ "ref": "026208622151",
+ "refDisplay": "0262 08 622151",
+ "title": "SUPPORT DE ROUE DE SECOURS",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

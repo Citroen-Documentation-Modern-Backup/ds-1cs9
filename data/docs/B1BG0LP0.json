@@ -1,0 +1,25 @@
+{
+ "ref": "B1BG0LP0",
+ "refDisplay": "B1BG0LP0",
+ "title": "Dépose - repose : Moteur - boîte de vitesses ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

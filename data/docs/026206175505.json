@@ -1,0 +1,18 @@
+{
+ "ref": "026206175505",
+ "refDisplay": "0262 06 175505",
+ "title": "ASPIRATION VAPEURS CARBURANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026208934477",
+ "refDisplay": "0262 08 934477",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "MIAMI ET TISSU NEO \"CG\" DEPUIS OPR 06933",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

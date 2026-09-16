@@ -1,0 +1,18 @@
+{
+ "ref": "026207842510",
+ "refDisplay": "0262 07 842510",
+ "title": "PORTE LATERALE AR",
+ "nature": "",
+ "applicability": "BERLINE 5PTES JUSQU’A OPR 05314",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  }
+ ]
+}

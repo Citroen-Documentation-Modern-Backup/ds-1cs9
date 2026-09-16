@@ -1,0 +1,18 @@
+{
+ "ref": "026204371112",
+ "refDisplay": "0262 04 371112",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

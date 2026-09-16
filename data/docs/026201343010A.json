@@ -1,0 +1,18 @@
+{
+ "ref": "026201343010A",
+ "refDisplay": "0262 01 343010A",
+ "title": "DIFFERENTIEL",
+ "nature": "",
+ "applicability": "ESSENCE ET MA DEPUIS OPR 04711 SAUF TU3J2",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

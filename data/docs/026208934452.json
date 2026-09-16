@@ -1,0 +1,18 @@
+{
+ "ref": "026208934452",
+ "refDisplay": "0262 08 934452",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "SPOT ET TISSU SPOT DEPUIS OPR 06203",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

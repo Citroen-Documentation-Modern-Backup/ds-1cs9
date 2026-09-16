@@ -1,0 +1,18 @@
+{
+ "ref": "026205501806",
+ "refDisplay": "0262 05 501806",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "GT ET SPORT DEPUIS OPR 04588 JUSQU’A OPR 05088",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

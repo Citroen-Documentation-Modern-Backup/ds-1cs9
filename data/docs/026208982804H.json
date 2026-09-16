@@ -1,0 +1,18 @@
+{
+ "ref": "026208982804H",
+ "refDisplay": "0262 08 982804H",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET IMAGE ET (E) ESPAGNE DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

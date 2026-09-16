@@ -1,0 +1,18 @@
+{
+ "ref": "026203442510",
+ "refDisplay": "0262 03 442510",
+ "title": "BIELLETTES DETAIL CREMAILLERE",
+ "nature": "",
+ "applicability": "DIRECTION NON ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

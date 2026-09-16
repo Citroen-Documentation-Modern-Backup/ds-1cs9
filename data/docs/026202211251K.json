@@ -1,0 +1,18 @@
+{
+ "ref": "026202211251K",
+ "refDisplay": "0262 02 211251K",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (D) ALLEMAGNE JUSQU’A OPR 05283",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

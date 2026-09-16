@@ -1,0 +1,20 @@
+{
+ "ref": "B1HE0EP0",
+ "refDisplay": "B1HE0EP0",
+ "title": "Contrôles-réglages : commandes pompe d’injection, équipement LUCAS DIESEL",
+ "nature": "Contrôles réglages",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

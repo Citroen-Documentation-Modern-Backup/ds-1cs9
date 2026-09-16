@@ -1,0 +1,18 @@
+{
+ "ref": "026203416152",
+ "refDisplay": "0262 03 416152",
+ "title": "ROUES",
+ "nature": "",
+ "applicability": "MONTAGE ROUE ALLIAGE JUSQU’A OPR 05277 SAUF SPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

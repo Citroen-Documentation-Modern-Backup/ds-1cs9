@@ -1,0 +1,18 @@
+{
+ "ref": "026206236005",
+ "refDisplay": "0262 06 236005",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L JUSQU’A OPR 05314",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

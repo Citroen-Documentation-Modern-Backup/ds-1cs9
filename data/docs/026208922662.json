@@ -1,0 +1,18 @@
+{
+ "ref": "026208922662",
+ "refDisplay": "0262 08 922662",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "HARMONIE DEPUIS OPR 07014",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

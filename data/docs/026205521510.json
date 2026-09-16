@@ -1,0 +1,23 @@
+{
+ "ref": "026205521510",
+ "refDisplay": "0262 05 521510",
+ "title": "COMBINE DE BORD - APPAREILS DE CONTROLE",
+ "nature": "",
+ "applicability": "AUTO-ECOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0319"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

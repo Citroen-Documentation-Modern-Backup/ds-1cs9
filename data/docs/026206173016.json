@@ -1,0 +1,18 @@
+{
+ "ref": "026206173016",
+ "refDisplay": "0262 06 173016",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "INJ MONOPOINT ET 1,360L ET (XT) EXPORT JUSQU’A OPR 05901",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

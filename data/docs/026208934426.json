@@ -1,0 +1,18 @@
+{
+ "ref": "026208934426",
+ "refDisplay": "0262 08 934426",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "SAXO DEPUIS OPR 05201 JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

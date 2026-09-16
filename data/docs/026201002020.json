@@ -1,0 +1,18 @@
+{
+ "ref": "026201002020",
+ "refDisplay": "0262 01 002020",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET GT ET CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

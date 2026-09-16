@@ -1,0 +1,18 @@
+{
+ "ref": "026205521972",
+ "refDisplay": "0262 05 521972",
+ "title": "INTERRUPTEURS CONSOLE - PLANCHE DE BORD",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

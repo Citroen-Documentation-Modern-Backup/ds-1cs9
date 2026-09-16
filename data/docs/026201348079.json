@@ -1,0 +1,18 @@
+{
+ "ref": "026201348079",
+ "refDisplay": "0262 01 348079",
+ "title": "SUSPENSION MOTEUR ET BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

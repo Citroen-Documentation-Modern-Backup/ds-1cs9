@@ -1,0 +1,23 @@
+{
+ "ref": "026208616215",
+ "refDisplay": "0262 08 616215",
+ "title": "CEINTURES DE SECURITE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 5PTES ET ENROULEUR BLOQUEUR SANGLE SANS ALARME DEPUIS OPR 06079",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

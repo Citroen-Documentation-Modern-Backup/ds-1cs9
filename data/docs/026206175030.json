@@ -1,0 +1,18 @@
+{
+ "ref": "026206175030",
+ "refDisplay": "0262 06 175030",
+ "title": "RESERVOIR CARBURANT",
+ "nature": "",
+ "applicability": "TU1M ET BICARBURATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

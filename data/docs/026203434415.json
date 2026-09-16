@@ -1,0 +1,18 @@
+{
+ "ref": "026203434415",
+ "refDisplay": "0262 03 434415",
+ "title": "BRAS DE SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "SPORT ET (J) JAPON ET GT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

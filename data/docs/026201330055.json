@@ -1,0 +1,18 @@
+{
+ "ref": "026201330055",
+ "refDisplay": "0262 01 330055",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "DIESEL ET TUD3 ET MA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

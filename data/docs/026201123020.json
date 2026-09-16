@@ -1,0 +1,18 @@
+{
+ "ref": "026201123020",
+ "refDisplay": "0262 01 123020",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET GT ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

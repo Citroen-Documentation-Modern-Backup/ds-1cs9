@@ -1,0 +1,19 @@
+{
+ "ref": "1CS904328920",
+ "refDisplay": "1CS9 0 432 8920",
+ "title": "RAIDISSEUR DE DOSSIER",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

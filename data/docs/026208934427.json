@@ -1,0 +1,18 @@
+{
+ "ref": "026208934427",
+ "refDisplay": "0262 08 934427",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "AIR FRANCE MME ET BERLINE 3PTES DEPUIS OPR 03887 JUSQU’A OPR 04799",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

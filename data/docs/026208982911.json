@@ -1,0 +1,18 @@
+{
+ "ref": "026208982911",
+ "refDisplay": "0262 08 982911",
+ "title": "PANNEAUX DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": "THALASSA ET SX DEPUIS OPR 04953 JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0141"
+  }
+ ]
+}

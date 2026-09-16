@@ -1,0 +1,18 @@
+{
+ "ref": "026207857015",
+ "refDisplay": "0262 07 857015",
+ "title": "PLANCHE DE BORD - VIDE POCHES",
+ "nature": "",
+ "applicability": "AVEC AERATEURS LATERAUX G+D JUSQU’A OPR 05314",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0214"
+  }
+ ]
+}

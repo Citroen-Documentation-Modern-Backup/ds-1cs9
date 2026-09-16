@@ -1,0 +1,19 @@
+{
+ "ref": "1CS904439086",
+ "refDisplay": "1CS9 0 443 9086",
+ "title": "GARNITURE PAVILLON A TOIT OUVRANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

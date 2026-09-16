@@ -1,0 +1,18 @@
+{
+ "ref": "026201114050",
+ "refDisplay": "0262 01 114050",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  }
+ ]
+}

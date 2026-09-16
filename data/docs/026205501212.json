@@ -1,0 +1,18 @@
+{
+ "ref": "026205501212",
+ "refDisplay": "0262 05 501212",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "GTI DEPUIS OPR 05315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

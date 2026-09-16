@@ -1,0 +1,20 @@
+{
+ "ref": "C4AP05P0",
+ "refDisplay": "C4AP05P0",
+ "title": "Pose : renfort d’assise avant sur renfort central de tunnel",
+ "nature": "Pose",
+ "applicability": "BERLINE 5PTES OU BERLINE ENTREPRISE 3PTES OU BERLINE 3PTES",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0111"
+  }
+ ]
+}

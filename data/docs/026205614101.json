@@ -1,0 +1,18 @@
+{
+ "ref": "026205614101",
+ "refDisplay": "0262 05 614101",
+ "title": "BOITIER A FUSIBLES RELAIS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  }
+ ]
+}

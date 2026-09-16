@@ -1,0 +1,23 @@
+{
+ "ref": "026208616232",
+ "refDisplay": "0262 08 616232",
+ "title": "CEINTURES DE SECURITE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET ENROUL BLOQUEUR SANGLE +ALARME",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

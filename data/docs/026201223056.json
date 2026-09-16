@@ -1,0 +1,18 @@
+{
+ "ref": "026201223056",
+ "refDisplay": "0262 01 223056",
+ "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

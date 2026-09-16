@@ -1,0 +1,25 @@
+{
+ "ref": "D6-G02P0",
+ "refDisplay": "D6-G02P0",
+ "title": "Dépose - repose : bloc électronique",
+ "nature": "Dépose-pose",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

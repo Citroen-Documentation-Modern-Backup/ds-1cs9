@@ -1,0 +1,20 @@
+{
+ "ref": "B1JB09P0",
+ "refDisplay": "B1JB09P0",
+ "title": "Caractéristiques - identifications : échappement, Moteur TUD5",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

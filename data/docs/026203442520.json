@@ -1,0 +1,18 @@
+{
+ "ref": "026203442520",
+ "refDisplay": "0262 03 442520",
+ "title": "CREMAILLERE DE DIRECTION - DETAILS",
+ "nature": "",
+ "applicability": "ELECTRIQUE ET DIRECTION ASSISTEE JUSQU’A OPR 07118",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "ref": "C5HG2CP0",
+ "refDisplay": "C5HG2CP0",
+ "title": "Dépose - repose : chaudière à combustion",
+ "nature": "Dépose-pose",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0349"
+  }
+ ]
+}

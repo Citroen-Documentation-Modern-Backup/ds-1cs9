@@ -1,0 +1,18 @@
+{
+ "ref": "026205501001",
+ "refDisplay": "0262 05 501001",
+ "title": "FAISCEAU AVANT",
+ "nature": "",
+ "applicability": "14 TRS ET SPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026205502303",
+ "refDisplay": "0262 05 502303",
+ "title": "FAISCEAU PORTES",
+ "nature": "",
+ "applicability": "BERLINE 3PTES DEPUIS OPR 05315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CS904238921",
+ "refDisplay": "1CS9 0 423 8921",
+ "title": "GARNITURE DE SIEGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

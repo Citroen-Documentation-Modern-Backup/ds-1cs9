@@ -1,0 +1,18 @@
+{
+ "ref": "026201335620",
+ "refDisplay": "0262 01 335620",
+ "title": "COMMANDE DE VITESSE BOITE MECANIQUE",
+ "nature": "",
+ "applicability": "ESSENCE JUSQU’A OPR 05277",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

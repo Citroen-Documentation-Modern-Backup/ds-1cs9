@@ -1,0 +1,20 @@
+{
+ "ref": "B1BB1AP0",
+ "refDisplay": "B1BB1AP0",
+ "title": "Caractéristiques - identifications : Moteur ",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "MOTEUR ELECTRIQUE SA13",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

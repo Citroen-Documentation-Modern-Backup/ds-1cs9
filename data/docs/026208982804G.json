@@ -1,0 +1,18 @@
+{
+ "ref": "026208982804G",
+ "refDisplay": "0262 08 982804G",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET EXCLUSIVE ET CORDOUE DEPUIS OPR 05776",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

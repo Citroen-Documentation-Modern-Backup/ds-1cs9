@@ -1,0 +1,24 @@
+{
+ "ref": "1CS904045282",
+ "refDisplay": "1CS9 0 404 5282",
+ "title": "COUVERCLES DE FEUX AR 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

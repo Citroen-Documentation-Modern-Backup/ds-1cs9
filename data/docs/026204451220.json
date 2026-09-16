@@ -1,0 +1,18 @@
+{
+ "ref": "026204451220",
+ "refDisplay": "0262 04 451220",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "4X4 ET GAZOLE ET ESSENCE ET 1,360L DEPUIS OPR 05278 SAUF INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0040"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026202140024L",
+ "refDisplay": "0262 02 140024L",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (A) AUTRICHE ET (CH) SUISSE ET (S) SUEDE DEPUIS OPR 04103",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

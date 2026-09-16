@@ -1,0 +1,23 @@
+{
+ "ref": "026208934302A",
+ "refDisplay": "0262 08 934302A",
+ "title": "BANQUETTE ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "BANQ RABAT DOSSIERS SEPARES DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

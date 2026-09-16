@@ -1,0 +1,23 @@
+{
+ "ref": "026208922520A",
+ "refDisplay": "0262 08 922520A",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": "BERLINE 5PTES ET SIEGE AV G DEPUIS OPR 04865 JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

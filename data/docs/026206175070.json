@@ -1,0 +1,23 @@
+{
+ "ref": "026206175070",
+ "refDisplay": "0262 06 175070",
+ "title": "RESERVOIR CARBURANT",
+ "nature": "",
+ "applicability": "MOTEUR ELECTRIQUE SA13 ET (F) FRANCE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0766"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026205501104",
+ "refDisplay": "0262 05 501104",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "ESSENCE DEPUIS OPR 05278 JUSQU’A OPR 06082 SAUF GT SAUF GTI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

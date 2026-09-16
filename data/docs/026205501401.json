@@ -1,0 +1,18 @@
+{
+ "ref": "026205501401",
+ "refDisplay": "0262 05 501401",
+ "title": "FAISCEAU ALLUMAGE",
+ "nature": "",
+ "applicability": "1,360L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

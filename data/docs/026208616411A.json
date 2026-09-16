@@ -1,0 +1,23 @@
+{
+ "ref": "026208616411A",
+ "refDisplay": "0262 08 616411A",
+ "title": "CEINTURES DE SECURITE ARRIERE",
+ "nature": "",
+ "applicability": "CEINTURE SECURITE AR ENROULEUR DEPUIS OPR 04742",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

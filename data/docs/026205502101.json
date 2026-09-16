@@ -1,0 +1,18 @@
+{
+ "ref": "026205502101",
+ "refDisplay": "0262 05 502101",
+ "title": "FAISCEAU D’HABITACLE - PLAFONNIER",
+ "nature": "",
+ "applicability": "11 TRE ET 14 TRS ET 14 TRD JUSQU’A OPR 05314",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026206173014A",
+ "refDisplay": "0262 06 173014A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "INJ MONOPOINT ET 1,124L DEPUIS OPR 05657",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

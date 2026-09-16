@@ -1,0 +1,18 @@
+{
+ "ref": "026208982806F",
+ "refDisplay": "0262 08 982806F",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "BERLINE 3PTES ET TISSU LANKA + VELOURS KARA \"EE\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

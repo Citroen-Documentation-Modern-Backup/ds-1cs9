@@ -1,0 +1,18 @@
+{
+ "ref": "026202532547L",
+ "refDisplay": "0262 02 532547L",
+ "title": "ALTERNATEUR - DETAILS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04070",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

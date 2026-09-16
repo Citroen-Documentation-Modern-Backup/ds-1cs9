@@ -1,0 +1,18 @@
+{
+ "ref": "026206531210",
+ "refDisplay": "0262 06 531210",
+ "title": "REMPLISSAGE BATTERIES",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

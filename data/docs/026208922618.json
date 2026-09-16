@@ -1,0 +1,18 @@
+{
+ "ref": "026208922618",
+ "refDisplay": "0262 08 922618",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FINIT. R ET FINIT. TR ET FINIT TG DEPUIS OPR 04131 JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

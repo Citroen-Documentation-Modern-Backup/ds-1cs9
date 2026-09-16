@@ -1,0 +1,18 @@
+{
+ "ref": "026203434010",
+ "refDisplay": "0262 03 434010",
+ "title": "AMORTISSEUR AVANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L JUSQU’A OPR 05277",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0028"
+  }
+ ]
+}

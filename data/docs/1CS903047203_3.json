@@ -1,0 +1,19 @@
+{
+ "ref": "1CS903047203_3",
+ "refDisplay": "1CS9 0 304 7203",
+ "title": "FACADE AV,PANNEAU COTE,PASSAGE ROUE D OU 1 COTE",
+ "nature": "",
+ "applicability": "(A00U) AX BERLINE 3PTES TU3MC BVM5 4X2 OU (A00T) AX BERLINE 3PTES TU9M BVM5 4X2 OU (A00S) AX BERLINE 3PTES INJECTION TU1M BVM5 4X2 OU (A00R) AX BERLINE 3PTES TU3M BVM5 4X2 OU (A00Q) AX BERLINE 3PTES TU9M BVM4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0103"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026207743110",
+ "refDisplay": "0262 07 743110",
+ "title": "PROTECTION SOUS CAISSE",
+ "nature": "",
+ "applicability": " SAUF ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0112"
+  }
+ ]
+}

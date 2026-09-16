@@ -1,0 +1,19 @@
+{
+ "ref": "1CS901552368",
+ "refDisplay": "1CS9 0 155 2368",
+ "title": "BARRE ANTI DEVERS AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

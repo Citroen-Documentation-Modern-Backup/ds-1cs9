@@ -1,0 +1,18 @@
+{
+ "ref": "026207856020",
+ "refDisplay": "0262 07 856020",
+ "title": "PLANCHE DE BORD",
+ "nature": "",
+ "applicability": "SANS AERATEURS LATERAUX G+D DEPUIS OPR 05315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026208934414",
+ "refDisplay": "0262 08 934414",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "11 TRE ET 14 TRS ET BERLINE 3PTES JUSQU’A OPR 03886",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

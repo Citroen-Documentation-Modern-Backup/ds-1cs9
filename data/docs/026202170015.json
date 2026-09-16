@@ -1,0 +1,18 @@
+{
+ "ref": "026202170015",
+ "refDisplay": "0262 02 170015",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L JUSQU’A OPR 04195 SAUF (CH) SUISSE SAUF (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

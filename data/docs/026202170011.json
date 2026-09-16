@@ -1,0 +1,18 @@
+{
+ "ref": "026202170011",
+ "refDisplay": "0262 02 170011",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "SPORT DEPUIS OPR 04529 JUSQU’A OPR 05168",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

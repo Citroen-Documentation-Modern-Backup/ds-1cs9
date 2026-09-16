@@ -1,0 +1,20 @@
+{
+ "ref": "B3BG1ZP0",
+ "refDisplay": "B3BG1ZP0",
+ "title": "Dépose - repose : amortisseur avant",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0028"
+  }
+ ]
+}

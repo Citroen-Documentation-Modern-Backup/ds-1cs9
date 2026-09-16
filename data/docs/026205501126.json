@@ -1,0 +1,18 @@
+{
+ "ref": "026205501126",
+ "refDisplay": "0262 05 501126",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "GAZOLE ET NIVEAU 2 ET CONDUITE A GAUCHE DEPUIS OPR 06384",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

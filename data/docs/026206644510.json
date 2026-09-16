@@ -1,0 +1,18 @@
+{
+ "ref": "026206644510",
+ "refDisplay": "0262 06 644510",
+ "title": "BOITIER EVAPORATEUR DETENDEUR",
+ "nature": "",
+ "applicability": "REFRIGERATION JUSQU’A OPR 05314",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

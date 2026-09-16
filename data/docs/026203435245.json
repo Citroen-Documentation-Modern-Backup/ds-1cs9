@@ -1,0 +1,18 @@
+{
+ "ref": "026203435245",
+ "refDisplay": "0262 03 435245",
+ "title": "BARRE ANTI DEVERS - BIELLETTE",
+ "nature": "",
+ "applicability": "DIESEL ET TUD5",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0029"
+  }
+ ]
+}

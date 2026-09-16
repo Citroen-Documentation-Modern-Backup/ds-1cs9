@@ -1,0 +1,18 @@
+{
+ "ref": "026207742501A",
+ "refDisplay": "0262 07 742501A",
+ "title": "TABLIER",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0107"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "026204451210",
+ "refDisplay": "0262 04 451210",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "SPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0040"
+  }
+ ]
+}

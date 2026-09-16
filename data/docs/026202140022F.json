@@ -1,0 +1,18 @@
+{
+ "ref": "026202140022F",
+ "refDisplay": "0262 02 140022F",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (D) ALLEMAGNE DEPUIS OPR 04173",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CS9",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}
