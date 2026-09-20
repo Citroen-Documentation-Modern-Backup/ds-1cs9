@@ -1,18 +1,1 @@
-{
- "ref": "026206644301A",
- "refDisplay": "0262 06 644301A",
- "title": "SONDE THERMOSTATIQUE",
- "nature": "",
- "applicability": "REFRIGERATION ET CONDUITE A GAUCHE DEPUIS OPR 05315",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026206644301A","refDisplay":"0262 06 644301A","title":"SONDE THERMOSTATIQUE","nature":"","applicability":"REFRIGERATION ET CONDUITE A GAUCHE DEPUIS OPR 05315","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CS9)(%DRE10)(DCX01)/($1,05315,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002944"},[]],["thesaurus",{"type":"10","code":"007947"},[]],["mpr",{"catal":"0262","grp":"465","grp2":"06","maj":"20111008","numfich":"644301A"},[["appl",{},["{(?1CS9)(%DRE10)(DCX01)/($1,05315,,)/}"]],["sti",{"ident":"NL644301"},[]],["img",{"numfich":"c644301a","path":"/img/pr/1a/c644/c644301a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002944","obsnfp":"NFP","ref":"0000645175","refpg":"6451 75"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007947","obsnfp":"NFP","ref":"00006445X0","refpg":"6445 X0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,06300)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 85"]]]]]],["pr",{"codesi":"007947","obsnfp":"NFP","ref":"00006445K1","refpg":"6445 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05501,1,06300)/}"]]]]]],["pr",{"codesi":"007947","ref":"00006445R8","refpg":"6445 R8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,06301,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 305"]]]]]]]]]]]]}

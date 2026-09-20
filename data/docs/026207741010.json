@@ -1,18 +1,1 @@
-{
- "ref": "026207741010",
- "refDisplay": "0262 07 741010",
- "title": "FACADE AVANT",
- "nature": "",
- "applicability": " SAUF ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0103"
-  }
- ]
-}
+{"ref":"026207741010","refDisplay":"0262 07 741010","title":"FACADE AVANT","nature":"","applicability":" SAUF ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0103"}],"kind":"pr","appl":"{(?1CS9)[(DGY08)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"002041"},[]],["thesaurus",{"type":"10","code":"005216"},[]],["thesaurus",{"type":"21","code":"L1008232"},[]],["mpr",{"catal":"0262","grp":"304","grp2":"07","maj":"20111008","numfich":"741010"},[["appl",{},["{(?1CS9)[(DGY08)]}"]],["sti",{"ident":"NL741001"},[]],["img",{"numfich":"00021351","path":"/img/pr/51/0002/00021351.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002041","obsnfp":"NFP","ref":"95602858","refpg":"95 602 858"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"125, 321, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005216","obsnfp":"NFP","ref":"96032033","refpg":"96 032 033"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1008232"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"134, 436, 11","shape":"circle"},[]]]]]]]]]]}

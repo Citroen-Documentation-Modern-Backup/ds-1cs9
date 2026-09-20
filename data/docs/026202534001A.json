@@ -1,18 +1,1 @@
-{
- "ref": "026202534001A",
- "refDisplay": "0262 02 534001A",
- "title": "BOITIER ELECTRONIQUE",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026202534001A","refDisplay":"0262 02 534001A","title":"BOITIER ELECTRONIQUE","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013565"},[]],["thesaurus",{"type":"21","code":"L0999909"},[]],["mpr",{"catal":"0262","grp":"493","grp2":"02","maj":"20111008","numfich":"534001A"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL534001"},[]],["img",{"numfich":"c534001a","path":"/img/pr/1a/c534/c534001a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013565","ref":"00001929YJ","refpg":"1929 YJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0999909"},[]],["reffour",{},[["four",{},["50409S"]]]]]]]]]]]]]]}

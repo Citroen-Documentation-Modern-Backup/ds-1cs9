@@ -1,18 +1,1 @@
-{
- "ref": "026202534010A",
- "refDisplay": "0262 02 534010A",
- "title": "BOITIER ELECTRONIQUE",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026202534010A","refDisplay":"0262 02 534010A","title":"BOITIER ELECTRONIQUE","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009104"},[]],["thesaurus",{"type":"10","code":"008839"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"012349"},[]],["mpr",{"catal":"0262","grp":"494","grp2":"02","maj":"20111008","numfich":"534010A"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL534001"},[]],["img",{"numfich":"c534010a","path":"/img/pr/0a/c534/c534010a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009104","obsnfp":"NFP","ref":"00001929K7","refpg":"1929 K7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008839","obsnfp":"NFP","ref":"00001929K6","refpg":"1929 K6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"00006923G6","refpg":"6923 G6"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-20"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"012349","ref":"00006921C5","refpg":"6921 C5"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M10X150-30"]]]]]]]]]]]]}

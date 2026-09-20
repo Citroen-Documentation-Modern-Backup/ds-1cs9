@@ -1,18 +1,1 @@
-{
- "ref": "026205502102",
- "refDisplay": "0262 05 502102",
- "title": "FAISCEAU D’HABITACLE - PLAFONNIER",
- "nature": "",
- "applicability": "14 TZS ET GT ET SPORT ET POLICE NATIONA JUSQU’A OPR 05314",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026205502102","refDisplay":"0262 05 502102","title":"FAISCEAU D’HABITACLE - PLAFONNIER","nature":"","applicability":"14 TZS ET GT ET SPORT ET POLICE NATIONA JUSQU’A OPR 05314","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CS9)(%14TZS)(%GT)(B0J0N)(B0J39)/($,,1,05314)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003741"},[]],["thesaurus",{"type":"10","code":"006112"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["mpr",{"catal":"0262","grp":"523","grp2":"05","maj":"20111008","numfich":"502102"},[["appl",{},["{(?1CS9)(%14TZS)(%GT)(B0J0N)(B0J39)/($,,1,05314)/}"]],["sti",{"ident":"NL502101"},[]],["img",{"numfich":"c5021020","path":"/img/pr/20/c502/c5021020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96013459","refpg":"96 013 459"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,03856)/}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96008681","refpg":"96 008 681"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,03857,1,04465)/}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96059377","refpg":"96 059 377"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04466,,)/}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96007655","refpg":"96 007 655"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,04465)/}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96059379","refpg":"96 059 379"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04466,,)/}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96037487","refpg":"96 037 487"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006112","ref":"0000654762","refpg":"6547 62"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 7 AXE 6"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006815","ref":"00006924K4","refpg":"6924 K4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-22"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692545","refpg":"6925 45"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004669","ref":"0000696294","refpg":"6962 94"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X11-0,7"]]]]]]]]]]]]}

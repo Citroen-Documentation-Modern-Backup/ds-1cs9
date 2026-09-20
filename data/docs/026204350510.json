@@ -1,18 +1,1 @@
-{
- "ref": "026204350510",
- "refDisplay": "0262 04 350510",
- "title": "TRANSMISSION LONGITUDINALE",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0022"
-  }
- ]
-}
+{"ref":"026204350510","refDisplay":"0262 04 350510","title":"TRANSMISSION LONGITUDINALE","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0022"}],"kind":"pr","appl":"{(?1CS9)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001703"},[]],["thesaurus",{"type":"10","code":"001551"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0262","grp":"131","grp2":"04","maj":"20111008","numfich":"350510"},[["appl",{},["{(?1CS9)(%4X4)}"]],["sti",{"ident":"NL350501"},[]],["img",{"numfich":"00024326","path":"/img/pr/26/0002/00024326.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001703","obsnfp":"NFP","ref":"96100345","refpg":"96 100 345"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["reffour",{},[["four",{},["47228J"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"166, 383, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001551","ref":"0000282903","refpg":"2829 03"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"403, 124, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008006","ref":"0000692381","refpg":"6923 81"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M10 X 150 - 75"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"151, 148, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008006","ref":"00006923H3","refpg":"6923 H3"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M10X150-35"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"312, 396, 11","shape":"circle"},[]]]]]]]]]]}

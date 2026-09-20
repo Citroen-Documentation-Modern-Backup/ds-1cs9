@@ -1,18 +1,1 @@
-{
- "ref": "026207746515",
- "refDisplay": "0262 07 746515",
- "title": "PIED MILIEU",
- "nature": "",
- "applicability": "BERLINE 5PTES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0128"
-  }
- ]
-}
+{"ref":"026207746515","refDisplay":"0262 07 746515","title":"PIED MILIEU","nature":"","applicability":"BERLINE 5PTES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0128"}],"kind":"pr","appl":"{(?1CS9)(B0DA5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004591"},[]],["thesaurus",{"type":"10","code":"004525"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0262","grp":"343","grp2":"07","maj":"20111008","numfich":"746515"},[["appl",{},["{(?1CS9)(B0DA5)}"]],["sti",{"ident":"NL746501"},[]],["img",{"numfich":"00021368","path":"/img/pr/68/0002/00021368.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004591","cote":"G","obsnfp":"NFP","ref":"95620098","refpg":"95 620 098"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["pr",{"codesi":"004591","cote":"D","obsnfp":"NFP","ref":"95620099","refpg":"95 620 099"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"312, 443, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004525","cote":"G","obsnfp":"NFP","ref":"95631214","refpg":"95 631 214"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CENT"]]]]]],["pr",{"codesi":"004525","cote":"D","obsnfp":"NFP","ref":"95631213","refpg":"95 631 213"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CENT"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"323, 323, 11","shape":"circle"},[]]]]]]]]]]}

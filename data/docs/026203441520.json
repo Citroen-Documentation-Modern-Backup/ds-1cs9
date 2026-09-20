@@ -1,18 +1,1 @@
-{
- "ref": "026203441520",
- "refDisplay": "0262 03 441520",
- "title": "ANTIVOL DE DIRECTION",
- "nature": "",
- "applicability": " DEPUIS OPR 05278",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0036"
-  }
- ]
-}
+{"ref":"026203441520","refDisplay":"0262 03 441520","title":"ANTIVOL DE DIRECTION","nature":"","applicability":" DEPUIS OPR 05278","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0036"}],"kind":"pr","appl":"{(?1CS9)/($1,05278,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000918"},[]],["thesaurus",{"type":"10","code":"001328"},[]],["thesaurus",{"type":"10","code":"006573"},[]],["thesaurus",{"type":"10","code":"004674"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"21","code":"L1001235"},[]],["mpr",{"catal":"0262","grp":"223","grp2":"03","maj":"20111008","numfich":"441520"},[["appl",{},["{(?1CS9)/($1,05278,,)/}"]],["sti",{"ident":"NL441501"},[]],["img",{"numfich":"c4415200","path":"/img/pr/00/c441/c4415200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000918","ref":"00004162G0","refpg":"4162 G0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001328","obsnfp":"NFP","ref":"95632524","refpg":"95 632 524"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["34X54"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006573","ref":"00004162W2","refpg":"4162 W2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%PRECIS)}"]],["obsligne",{"ident":"L1001235"},[]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004674","ref":"0000690569","refpg":"6905 69"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4X70-7"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004669","ref":"0000695854","refpg":"6958 54"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4,2X8-0,5"]]]]]]]]]]]]}

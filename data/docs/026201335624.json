@@ -1,18 +1,1 @@
-{
- "ref": "026201335624",
- "refDisplay": "0262 01 335624",
- "title": "COMMANDE DE VITESSE BOITE MECANIQUE",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0018"
-  }
- ]
-}
+{"ref":"026201335624","refDisplay":"0262 01 335624","title":"COMMANDE DE VITESSE BOITE MECANIQUE","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0018"}],"kind":"pr","appl":"{(?1CS9)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000991"},[]],["thesaurus",{"type":"10","code":"001541"},[]],["thesaurus",{"type":"10","code":"001654"},[]],["thesaurus",{"type":"10","code":"001000"},[]],["thesaurus",{"type":"10","code":"001001"},[]],["thesaurus",{"type":"10","code":"001158"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"21","code":"L0995914"},[]],["mpr",{"catal":"0262","grp":"87","grp2":"01","maj":"20111008","numfich":"335624"},[["appl",{},["{(?1CS9)(%4X4)}"]],["sti",{"ident":"NL335601"},[]],["img",{"numfich":"c3356240","path":"/img/pr/40/c335/c3356240.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000991","obsnfp":"NFP","ref":"96064609","refpg":"96 064 609"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0995914"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001541","obsnfp":"NFP","ref":"96148016","refpg":"96 148 016"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001654","obsnfp":"NFP","ref":"96145659","refpg":"96 145 659"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001000","obsnfp":"NFP","ref":"96064495","refpg":"96 064 495"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP LON 201"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001000","obsnfp":"NFP","ref":"96129538","refpg":"96 129 538"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001001","obsnfp":"NFP","ref":"96064493","refpg":"96 064 493"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 347"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001158","obsnfp":"NFP","ref":"0000243639","refpg":"2436 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006142","ref":"0000693509","refpg":"6935 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-7,3-13"]]]]]]]]]]]]}

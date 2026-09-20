@@ -1,18 +1,1 @@
-{
- "ref": "026208982903",
- "refDisplay": "0262 08 982903",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "FINIT. TR JUSQU’A OPR 04467",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"026208982903","refDisplay":"0262 08 982903","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"FINIT. TR JUSQU’A OPR 04467","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CS9)(%TR)/($,,1,04467)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"006101"},[]],["thesaurus",{"type":"10","code":"015292"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"10","code":"007841"},[]],["mpr",{"catal":"0262","grp":"363","grp2":"08","maj":"20111008","numfich":"982903"},[["appl",{},["{(?1CS9)(%TR)/($,,1,04467)/}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["TISSU EPICEA"]]]],["img",{"numfich":"c9829030","path":"/img/pr/30/c982/c9829030.jpg","ext":"jpg"},[]],["repere",{"rep":"05"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"95499150","refpg":"95 499 150"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LUM 18X7 DIAM 20"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006101","obsnfp":"LE-2008","ref":"5440233","refpg":"5 440 233"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"015292","ref":"00006994P9","refpg":"6994 P9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)/($1,04131,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,4"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"015290","ref":"00006999CQ","refpg":"6999 CQ"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)}"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"010757","ref":"00006910A2","refpg":"6910 A2"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,3-38"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"007841","ref":"00006908A2","refpg":"6908 A2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2 - 16"]]]]]]]]]]]]}

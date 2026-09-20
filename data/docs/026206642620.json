@@ -1,18 +1,1 @@
-{
- "ref": "026206642620",
- "refDisplay": "0262 06 642620",
- "title": "AEROTHERME ET RACCORD D’EAU",
- "nature": "",
- "applicability": "MOTEUR ELECTRIQUE SA13",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026206642620","refDisplay":"0262 06 642620","title":"AEROTHERME ET RACCORD D’EAU","nature":"","applicability":"MOTEUR ELECTRIQUE SA13","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CS9)(B0FE3)}","tree":["document",{},[["thesaurus",{"type":"7","code":"P002-"},[]],["thesaurus",{"type":"10","code":"002972"},[]],["thesaurus",{"type":"10","code":"007884"},[]],["thesaurus",{"type":"10","code":"002382"},[]],["thesaurus",{"type":"10","code":"004663"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0262","grp":"464","grp2":"06","maj":"20111008","numfich":"642620"},[["appl",{},["{(?1CS9)(B0FE3)}"]],["sti",{"ident":"NL642601"},[]],["img",{"numfich":"c6426200","path":"/img/pr/00/c642/c6426200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002972","ref":"00006464FC","refpg":"6464 FC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002972","obsnfp":"NFP","ref":"00006464FE","refpg":"6464 FE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002972","obsnfp":"NFP","ref":"00006464FF","refpg":"6464 FF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007884","obsnfp":"NFP","ref":"96090997","refpg":"96 090 997"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002382","obsnfp":"NFP","ref":"96090004","refpg":"96 090 004"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004663","ref":"00007150T2","refpg":"7150 T2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["40X31 H 12"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"0000131948","refpg":"1319 48"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"matiere":"P002-"},[]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"00006992H1","refpg":"6992 H1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 30"]]]]]]]]]]]]}

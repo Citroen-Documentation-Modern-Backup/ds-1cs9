@@ -1,18 +1,1 @@
-{
- "ref": "026203435225",
- "refDisplay": "0262 03 435225",
- "title": "BARRE ANTI DEVERS - BIELLETTE",
- "nature": "",
- "applicability": "SPORT DEPUIS OPR 04803 JUSQU’A OPR 05166",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0029"
-  }
- ]
-}
+{"ref":"026203435225","refDisplay":"0262 03 435225","title":"BARRE ANTI DEVERS - BIELLETTE","nature":"","applicability":"SPORT DEPUIS OPR 04803 JUSQU’A OPR 05166","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0029"}],"kind":"pr","appl":"{(?1CS9)(B0J0N)/($1,04803,1,05166)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001826"},[]],["thesaurus",{"type":"10","code":"005530"},[]],["thesaurus",{"type":"10","code":"002148"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"22","code":"P0004627"},[]],["thesaurus",{"type":"21","code":"L1001045"},[]],["thesaurus",{"type":"21","code":"L1001046"},[]],["mpr",{"catal":"0262","grp":"153","grp2":"03","maj":"20111008","numfich":"435225"},[["appl",{},["{(?1CS9)(B0J0N)/($1,04803,1,05166)/}"]],["sti",{"ident":"NL435201"},[]],["obspage",{"ident":"P0004627"},[]],["img",{"numfich":"c4352250","path":"/img/pr/50/c435/c4352250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001826","obsnfp":"NFP","ref":"96079078","refpg":"96 079 078"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 21"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005530","ref":"0000509734","refpg":"5097 34"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["pr",{"codesi":"005530","ref":"0000509733","refpg":"5097 33"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002148","ref":"0000509457","refpg":"5094 57"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1001045"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 21"]]]]]],["pr",{"codesi":"002148","ref":"0000509460","refpg":"5094 60"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1001046"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 21"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"013981","ref":"96143825","refpg":"96 143 825"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000692120","refpg":"6921 20"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-60"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004682","ref":"0000691353","refpg":"6913 53"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X150-25"]]]],["prremp",{"coef":"01","ref":"1609668280","refpg":"16 096 682 80"},[]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]]]]]]}

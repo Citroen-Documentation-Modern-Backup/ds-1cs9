@@ -1,18 +1,1 @@
-{
- "ref": "026205653001",
- "refDisplay": "0262 05 653001",
- "title": "EQUIPEMENT RADIO",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0350"
-  }
- ]
-}
+{"ref":"026205653001","refDisplay":"0262 05 653001","title":"EQUIPEMENT RADIO","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0350"}],"kind":"pr","appl":"{(?1CS9)}","tree":["document",{},[["thesaurus",{"type":"10","code":"007754"},[]],["thesaurus",{"type":"10","code":"003923"},[]],["thesaurus",{"type":"10","code":"003655"},[]],["thesaurus",{"type":"21","code":"L1004833"},[]],["thesaurus",{"type":"21","code":"L1004832"},[]],["thesaurus",{"type":"21","code":"L1004834"},[]],["mpr",{"catal":"0262","grp":"541","grp2":"05","maj":"20111008","numfich":"653001"},[["appl",{},["{(?1CS9)}"]],["sti",{"ident":"NL653001"},[]],["img",{"numfich":"00021229","path":"/img/pr/29/0002/00021229.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"007754","obsnfp":"NFP","ref":"96141438","refpg":"96 141 438"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05714,,)/}"]],["obsligne",{"ident":"L1004833"},[]],["reffour",{},[["four",{},["27267M"]]]]]]]],["pr",{"codesi":"007754","obsnfp":"NFP","ref":"96141436","refpg":"96 141 436"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05714,,)/}"]],["obsligne",{"ident":"L1004832"},[]],["reffour",{},[["four",{},["17524X01"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"395, 367, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003923","ref":"0000656011","refpg":"6560 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05714,,)/}"]],["obsligne",{"ident":"L1004834"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"280, 123, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003655","obsnfp":"NFP","ref":"95632840","refpg":"95 632 840"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"113, 114, 11","shape":"circle"},[]]]]]]]]]]}

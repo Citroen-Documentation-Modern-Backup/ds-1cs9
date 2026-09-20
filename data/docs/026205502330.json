@@ -1,18 +1,1 @@
-{
- "ref": "026205502330",
- "refDisplay": "0262 05 502330",
- "title": "FAISCEAU PORTES",
- "nature": "",
- "applicability": "BERLINE 5PTES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026205502330","refDisplay":"0262 05 502330","title":"FAISCEAU PORTES","nature":"","applicability":"BERLINE 5PTES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CS9)(B0DA5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003744"},[]],["thesaurus",{"type":"10","code":"003763"},[]],["thesaurus",{"type":"10","code":"001671"},[]],["mpr",{"catal":"0262","grp":"505","grp2":"05","maj":"20111008","numfich":"502330"},[["appl",{},["{(?1CS9)(B0DA5)}"]],["sti",{"ident":"NL502301"},[]],["img",{"numfich":"00021156","path":"/img/pr/56/0002/00021156.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003744","obsnfp":"NFP","ref":"95640496","refpg":"95 640 496"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(DEU02)/($,,1,05314)/}"]]]]]],["pr",{"codesi":"003744","obsnfp":"NFP","ref":"96082454","refpg":"96 082 454"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(DEU02)/($1,05315,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"367, 460, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003763","ref":"95599617","refpg":"95 599 617"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 160"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"324, 343, 11","shape":"circle"},[]],["area",{"coords":"48, 5, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001671","obsnfp":"NFP","ref":"95499169","refpg":"95 499 169"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 DIAM 8"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"317, 243, 11","shape":"circle"},[]],["area",{"coords":"105, 5, 11","shape":"circle"},[]]]]]]]]]]}

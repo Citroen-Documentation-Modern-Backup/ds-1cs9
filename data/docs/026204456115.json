@@ -1,18 +1,1 @@
-{
- "ref": "026204456115",
- "refDisplay": "0262 04 456115",
- "title": "COMPENSATEUR DE FREIN",
- "nature": "",
- "applicability": "ANTI-BLOCAGE ROUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0043"
-  }
- ]
-}
+{"ref":"026204456115","refDisplay":"0262 04 456115","title":"COMPENSATEUR DE FREIN","nature":"","applicability":"ANTI-BLOCAGE ROUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0043"}],"kind":"pr","appl":"{(?1CS9)(DAF01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002123"},[]],["thesaurus",{"type":"10","code":"002229"},[]],["thesaurus",{"type":"10","code":"002371"},[]],["thesaurus",{"type":"10","code":"005658"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0262","grp":"236","grp2":"04","maj":"20111008","numfich":"456115"},[["appl",{},["{(?1CS9)(DAF01)}"]],["sti",{"ident":"NL456101"},[]],["img",{"numfich":"c4561150","path":"/img/pr/50/c456/c4561150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002123","obsnfp":"NFP","ref":"0000486155","refpg":"4861 55"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002229","ref":"0000487110","refpg":"4871 10"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002371","obsnfp":"NFP","ref":"0000487506","refpg":"4875 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"005658","obsnfp":"NFP","ref":"7903017019","refpg":"79 03 017 019"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5 - 8"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"00006922H3","refpg":"6922 H3"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]]]]]]]]]]}

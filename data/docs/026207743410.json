@@ -1,18 +1,1 @@
-{
- "ref": "026207743410",
- "refDisplay": "0262 07 743410",
- "title": "CALANDRE",
- "nature": "",
- "applicability": " JUSQU’A OPR 05314",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0108"
-  }
- ]
-}
+{"ref":"026207743410","refDisplay":"0262 07 743410","title":"CALANDRE","nature":"","applicability":" JUSQU’A OPR 05314","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0108"}],"kind":"pr","appl":"{(?1CS9)/($,,1,05314)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006138"},[]],["thesaurus",{"type":"10","code":"002876"},[]],["thesaurus",{"type":"21","code":"L1008424"},[]],["thesaurus",{"type":"21","code":"L1008423"},[]],["mpr",{"catal":"0262","grp":"309","grp2":"07","maj":"20111008","numfich":"743410"},[["appl",{},["{(?1CS9)/($,,1,05314)/}"]],["sti",{"ident":"NL743401"},[]],["img",{"numfich":"00021360","path":"/img/pr/60/0002/00021360.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006138","obsnfp":"NFP","ref":"95619670","refpg":"95 619 670"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1008424"},[]]]]]],["pr",{"codesi":"006138","obsnfp":"NFP","ref":"96054241","refpg":"96 054 241"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1008423"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"186, 449, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002876","obsnfp":"NFP","ref":"95636637","refpg":"95 636 637"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"93, 464, 11","shape":"circle"},[]]]]]]]]]]}

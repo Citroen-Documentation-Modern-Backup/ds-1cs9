@@ -1,18 +1,1 @@
-{
- "ref": "026205501060",
- "refDisplay": "0262 05 501060",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "POLICE NATIONA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501060","refDisplay":"0262 05 501060","title":"FAISCEAU AVANT","nature":"","applicability":"POLICE NATIONA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)(B0J39)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"21","code":"L1002447"},[]],["mpr",{"catal":"0262","grp":"512","grp2":"05","maj":"20111008","numfich":"501060"},[["appl",{},["{(?1CS9)(B0J39)}"]],["sti",{"ident":"NL501001"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96040047","refpg":"96 040 047"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1002447"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96043096","refpg":"96 043 096"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

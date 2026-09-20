@@ -1,18 +1,1 @@
-{
- "ref": "026206641210F",
- "refDisplay": "0262 06 641210F",
- "title": "BOITIER PULSEUR DE CLIMATISATION",
- "nature": "",
- "applicability": "REFRIGERATION JUSQU’A OPR 05315",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026206641210F","refDisplay":"0262 06 641210F","title":"BOITIER PULSEUR DE CLIMATISATION","nature":"","applicability":"REFRIGERATION JUSQU’A OPR 05315","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CS9)(%DRE10)/($,,1,05315)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002841"},[]],["mpr",{"catal":"0262","grp":"462","grp2":"06","maj":"20111008","numfich":"641210F"},[["appl",{},["{(?1CS9)(%DRE10)/($,,1,05315)/}"]],["sti",{"ident":"NL641201"},[]],["img",{"numfich":"00021324","path":"/img/pr/24/0002/00021324.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002841","obsnfp":"NFP","ref":"96045150","refpg":"96 045 150"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12 V"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"354, 67, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"002841","obsnfp":"NFP","ref":"95661719","refpg":"95 661 719"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DCX02)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"357, 113, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026201002045A",
- "refDisplay": "0262 01 002045A",
- "title": "MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE DEPUIS OPR 05902 SAUF 4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026201002045A","refDisplay":"0262 01 002045A","title":"MOTEUR","nature":"","applicability":"ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE DEPUIS OPR 05902 SAUF 4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F136)(%DAZ07)(%CARTCF)/($1,05902,,)/[(%4X4)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"22","code":"P0004527"},[]],["mpr",{"catal":"0262","grp":"4","grp2":"01","maj":"20111008","numfich":"002045A"},[["appl",{},["{(?1CS9)(DCD10)(%B0F136)(%DAZ07)(%CARTCF)/($1,05902,,)/[(%4X4)]}"]],["sti",{"ident":"NL002001"},[]],["obspage",{"ident":"P0004527"},[]],["img",{"numfich":"c002045a","path":"/img/pr/5a/c002/c002045a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135R4","refpg":"0135 R4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["reporg",{},[["monte",{},["KDX"]],["monte",{},["(KDX)"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139G3","refpg":"0139 G3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(~2)}"]]]],["reporg",{},[["monte",{},[" KDX"]]]]]]]]]]]]}

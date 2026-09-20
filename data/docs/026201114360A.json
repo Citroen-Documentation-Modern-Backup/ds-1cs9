@@ -1,18 +1,1 @@
-{
- "ref": "026201114360A",
- "refDisplay": "0262 01 114360A",
- "title": "CARTER DE DISTRIBUTION",
- "nature": "",
- "applicability": "DIESEL ET TUD5 DEPUIS OPR 07342",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"026201114360A","refDisplay":"0262 01 114360A","title":"CARTER DE DISTRIBUTION","nature":"","applicability":"DIESEL ET TUD5 DEPUIS OPR 07342","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD5)/($1,07342,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001514"},[]],["thesaurus",{"type":"10","code":"000150"},[]],["thesaurus",{"type":"10","code":"008579"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"10","code":"010505"},[]],["mpr",{"catal":"0262","grp":"14","grp2":"01","maj":"20111008","numfich":"114360A"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD5)/($1,07342,,)/}"]],["sti",{"ident":"NL114301"},[]],["img",{"numfich":"c114360a","path":"/img/pr/0a/c114/c114360a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001514","ref":"00000320K6","refpg":"0320 K6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000150","ref":"00000320P5","refpg":"0320 P5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008579","ref":"0000032469","refpg":"0324 69"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-12"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005670","ref":"00001565P2","refpg":"1565 P2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-10"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010505","ref":"0000032467","refpg":"0324 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]]]]]]}

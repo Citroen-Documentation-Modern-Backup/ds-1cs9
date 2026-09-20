@@ -1,18 +1,1 @@
-{
- "ref": "026205501001",
- "refDisplay": "0262 05 501001",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "14 TRS ET SPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501001","refDisplay":"0262 05 501001","title":"FAISCEAU AVANT","nature":"","applicability":"14 TRS ET SPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)(%14TRS)(B0J0N)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"21","code":"L1002433"},[]],["mpr",{"catal":"0262","grp":"512","grp2":"05","maj":"20111008","numfich":"501001"},[["appl",{},["{(?1CS9)(%14TRS)(B0J0N)}"]],["sti",{"ident":"NL501001"},[]],["enssup",{},[["refd",{},["BOITIER NIVEAU D'EAU"]]]],["img",{"numfich":"00021054","path":"/img/pr/54/0002/00021054.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"95631985","refpg":"95 631 985"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1002433"},[]]]]]]]]]]]]}

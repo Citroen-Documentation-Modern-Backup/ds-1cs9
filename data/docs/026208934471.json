@@ -1,18 +1,1 @@
-{
- "ref": "026208934471",
- "refDisplay": "0262 08 934471",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "BERLINE 3PTES ET (GB) GRANDE-BRETAGNE DEPUIS OPR 05806 JUSQU’A OPR 06027",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934471","refDisplay":"0262 08 934471","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"BERLINE 3PTES ET (GB) GRANDE-BRETAGNE DEPUIS OPR 05806 JUSQU’A OPR 06027","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(B0DA3)(B0H70)/($1,05806,1,06027)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"016982"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934471"},[["appl",{},["{(?1CS9)(B0DA3)(B0H70)/($1,05806,1,06027)/}"]],["sti",{"ident":"NL934401"},[]],["enssup",{},[["refd",{},["VELOURS UNI DU JAMES + TEP V086"]]]],["img",{"numfich":"c9344710","path":"/img/pr/10/c934/c9344710.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"96099785","refpg":"96 099 785"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"96099780","refpg":"96 099 780"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

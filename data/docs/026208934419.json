@@ -1,18 +1,1 @@
-{
- "ref": "026208934419",
- "refDisplay": "0262 08 934419",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "FINIT BASE DEPUIS OPR 04131 JUSQU’A OPR 05284",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934419","refDisplay":"0262 08 934419","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"FINIT BASE DEPUIS OPR 04131 JUSQU’A OPR 05284","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(%B)/($1,04131,1,05284)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"004476"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934419"},[["appl",{},["{(?1CS9)(%B)/($1,04131,1,05284)/}"]],["sti",{"ident":"NL934401"},[]],["enssup",{},[["refd",{},["TEP"]]]],["img",{"numfich":"c9344190","path":"/img/pr/90/c934/c9344190.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"95609933","refpg":"95 609 933"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"95609931","refpg":"95 609 931"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA3)}"]]]]]],["pr",{"codesi":"016982","obsnfp":"NFP","ref":"95635953","refpg":"95 635 953"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA5)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004476","obsnfp":"NFP","ref":"96025950","refpg":"96 025 950"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(B0DA5)}"]]]]]]]]]]]]}

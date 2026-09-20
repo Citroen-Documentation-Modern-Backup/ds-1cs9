@@ -1,18 +1,1 @@
-{
- "ref": "026201223045A",
- "refDisplay": "0262 01 223045A",
- "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
- "nature": "",
- "applicability": "ESSENCE ET SPORT DEPUIS OPR 04586",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"026201223045A","refDisplay":"0262 01 223045A","title":"CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE","nature":"","applicability":"ESSENCE ET SPORT DEPUIS OPR 04586","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(B0J0N)/($1,04586,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000243"},[]],["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"007515"},[]],["thesaurus",{"type":"10","code":"006722"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0262","grp":"33","grp2":"01","maj":"20111008","numfich":"223045A"},[["appl",{},["{(?1CS9)(DCD10)(B0J0N)/($1,04586,,)/}"]],["sti",{"ident":"NL223001"},[]],["img",{"numfich":"c223045a","path":"/img/pr/5a/c223/c223045a.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"000243","obsnfp":"NFP","ref":"0000117827","refpg":"1178 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"96995007","refpg":"96 995 007"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"96072383","refpg":"96 072 383"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16,5X22"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"96072382","refpg":"96 072 382"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16,5X22-40"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"007515","obsnfp":"NFP","ref":"96072384","refpg":"96 072 384"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"006722","obsnfp":"NFP","ref":"96072385","refpg":"96 072 385"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026201348079",
- "refDisplay": "0262 01 348079",
- "title": "SUSPENSION MOTEUR ET BOITE DE VITESSES",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026201348079","refDisplay":"0262 01 348079","title":"SUSPENSION MOTEUR ET BOITE DE VITESSES","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000573"},[]],["thesaurus",{"type":"10","code":"000666"},[]],["thesaurus",{"type":"10","code":"000165"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"012349"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"0262","grp":"5","grp2":"01","maj":"20111008","numfich":"348079"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL348001"},[]],["img",{"numfich":"c3480790","path":"/img/pr/90/c348/c3480790.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000573","ref":"0000180004","refpg":"1800 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000666","ref":"00001807A7","refpg":"1807 A7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000165","ref":"0000180666","refpg":"1806 66"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004675","ref":"0000692239","refpg":"6922 39"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X175-55"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"008006","ref":"0000692276","refpg":"6922 76"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-30"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006922F0","refpg":"6922 F0"},[]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"008006","ref":"0000692309","refpg":"6923 09"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10 X 150 - 70"]]]]]]]],["repere",{"rep":"73"},[["pr",{"codesi":"012349","ref":"00006921C5","refpg":"6921 C5"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M10X150-30"]]]]]]]],["repere",{"rep":"74"},[["pr",{"codesi":"008006","ref":"00006923H3","refpg":"6923 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M10X150-35"]]]]]]]],["repere",{"rep":"75"},[["pr",{"codesi":"008588","ref":"0000696292","refpg":"6962 92"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X24-3,2"]]]]]]]]]]]]}

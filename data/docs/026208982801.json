@@ -1,18 +1,1 @@
-{
- "ref": "026208982801",
- "refDisplay": "0262 08 982801",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "BERLINE 3PTES ET OLYMPIQUE ET TONIC ET SPOT JUSQU’A OPR 05284",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"026208982801","refDisplay":"0262 08 982801","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"BERLINE 3PTES ET OLYMPIQUE ET TONIC ET SPOT JUSQU’A OPR 05284","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CS9)(B0DA3)(%B0J1P)(B0J0E)(B0J1T)/($,,1,05284)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"XX-"},[]],["thesaurus",{"type":"10","code":"007571"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"10","code":"007841"},[]],["thesaurus",{"type":"10","code":"015292"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0262","grp":"354","grp2":"08","maj":"20111008","numfich":"982801"},[["appl",{},["{(?1CS9)(B0DA3)(%B0J1P)(B0J0E)(B0J1T)/($,,1,05284)/}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["TEP"]]]],["img",{"numfich":"c9828010","path":"/img/pr/10/c982/c9828010.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"007571","obsnfp":"NFP","ref":"92517898XX","refpg":"92 517 898 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"XX-"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"010757","ref":"00006910A2","refpg":"6910 A2"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,3-38"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"007841","ref":"0000692565","refpg":"6925 65"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,8 X 19"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692513","refpg":"6925 13"},[]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"015292","ref":"00006994P9","refpg":"6994 P9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,4"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004647","ref":"00006995A3","refpg":"6995 A3"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6 - 8,8"]]]]]]]]]]]]}

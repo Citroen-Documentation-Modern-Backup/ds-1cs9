@@ -1,18 +1,1 @@
-{
- "ref": "026203416165",
- "refDisplay": "0262 03 416165",
- "title": "ROUES",
- "nature": "",
- "applicability": "MONTAGE ROUE TOLE ET MONTAGE ROUE ALLIAGE ET SPORT JUSQU’A OPR 05166",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"026203416165","refDisplay":"0262 03 416165","title":"ROUES","nature":"","applicability":"MONTAGE ROUE TOLE ET MONTAGE ROUE ALLIAGE ET SPORT JUSQU’A OPR 05166","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CS9)(DRP01)(DRP02)(B0J0N)/($,,1,05166)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003194"},[]],["thesaurus",{"type":"10","code":"002234"},[]],["thesaurus",{"type":"10","code":"002007"},[]],["mpr",{"catal":"0262","grp":"144","grp2":"03","maj":"20111008","numfich":"416165"},[["appl",{},["{(?1CS9)(DRP01)(DRP02)(B0J0N)/($,,1,05166)/}"]],["sti",{"ident":"NL416101"},[]],["img",{"numfich":"c4161650","path":"/img/pr/50/c416/c4161650.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003194","obsnfp":"NFP","ref":"95639373","refpg":"95 639 373"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 135,5"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002234","obsnfp":"NFP","ref":"95639385","refpg":"95 639 385"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"95633811","refpg":"95 633 811"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)/($,,1,04982)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 98"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"96045533","refpg":"96 045 533"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)/($1,04983,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 179,2"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026208934415",
- "refDisplay": "0262 08 934415",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "11 TRE ET 14 TRS ET BERLINE 3PTES ET BANQ RABAT DOSSIERS SEPARES JUSQU’A OPR 03886",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934415","refDisplay":"0262 08 934415","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"11 TRE ET 14 TRS ET BERLINE 3PTES ET BANQ RABAT DOSSIERS SEPARES JUSQU’A OPR 03886","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(%11TRE)(%14TRS)(B0DA3)(DAL04)/($,,1,03886)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"FXX-"},[]],["thesaurus",{"type":"6","code":"FTL-"},[]],["thesaurus",{"type":"6","code":"XX-"},[]],["thesaurus",{"type":"10","code":"004406"},[]],["thesaurus",{"type":"10","code":"004399"},[]],["thesaurus",{"type":"10","code":"004415"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934415"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)(B0DA3)(DAL04)/($,,1,03886)/}"]],["sti",{"ident":"NL934401"},[]],["enssup",{},[["refd",{},["TISSU CHAMPION"]]]],["img",{"numfich":"c9344150","path":"/img/pr/50/c934/c9344150.jpg","ext":"jpg"},[]],["repere",{"rep":"08"},[["pr",{"codesi":"004406","obsnfp":"NFP","ref":"95613213XX","refpg":"95 613 213 XX"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"FXX-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004399","ref":"0000891448","refpg":"8914 48"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004415","obsnfp":"NFP","ref":"92534559TL","refpg":"92 534 559 TL"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"FTL-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["pr",{"codesi":"004415","obsnfp":"NFP","ref":"92534559XX","refpg":"92 534 559 XX"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"XX-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]]]]]]}

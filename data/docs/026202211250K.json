@@ -1,18 +1,1 @@
-{
- "ref": "026202211250K",
- "refDisplay": "0262 02 211250K",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L ET (D) ALLEMAGNE ET (NL) PAYS BAS JUSQU’A OPR 05283",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"026202211250K","refDisplay":"0262 02 211250K","title":"ALLUMEUR","nature":"","applicability":"ESSENCE ET 0,954L ET (D) ALLEMAGNE ET (NL) PAYS BAS JUSQU’A OPR 05283","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F09)(B0H04)(B0H44)/($,,1,05283)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["mpr",{"catal":"0262","grp":"45","grp2":"02","maj":"20111008","numfich":"211250K"},[["appl",{},["{(?1CS9)(DCD10)(%B0F09)(B0H04)(B0H44)/($,,1,05283)/}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525661A"]]]],["img",{"numfich":"c211250k","path":"/img/pr/0k/c211/c211250k.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"005554","ref":"00005904K8","refpg":"5904 K8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002116","ref":"0000594035","refpg":"5940 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

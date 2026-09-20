@@ -1,18 +1,1 @@
-{
- "ref": "026205501050",
- "refDisplay": "0262 05 501050",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501050","refDisplay":"0262 05 501050","title":"FAISCEAU AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006058"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0262","grp":"512","grp2":"05","maj":"20111008","numfich":"501050"},[["appl",{},["{(?1CS9)}"]],["sti",{"ident":"NL501001"},[]],["enssup",{},[["refd",{},["RAPPEL CLIGNOTANT"]]]],["img",{"numfich":"c5010500","path":"/img/pr/00/c501/c5010500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006058","obsnfp":"NFP","ref":"95636007","refpg":"95 636 007"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"00006995CX","refpg":"6995 CX"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15-25"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"0000698681","refpg":"6986 81"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 17"]]]]]]]]]]]]}

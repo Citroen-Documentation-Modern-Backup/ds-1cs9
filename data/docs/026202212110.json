@@ -1,18 +1,1 @@
-{
- "ref": "026202212110",
- "refDisplay": "0262 02 212110",
- "title": "BOUGIE - BOITIER PRECHAUFFAGE",
- "nature": "",
- "applicability": "DIESEL ET TUD3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0304"
-  }
- ]
-}
+{"ref":"026202212110","refDisplay":"0262 02 212110","title":"BOUGIE - BOITIER PRECHAUFFAGE","nature":"","applicability":"DIESEL ET TUD3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0304"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005382"},[]],["thesaurus",{"type":"10","code":"014153"},[]],["thesaurus",{"type":"10","code":"015879"},[]],["thesaurus",{"type":"10","code":"001888"},[]],["thesaurus",{"type":"10","code":"001849"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["mpr",{"catal":"0262","grp":"482","grp2":"02","maj":"20111207","numfich":"212110"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD3)}"]],["sti",{"ident":"T0059745"},[]],["img",{"numfich":"c2121100","path":"/img/pr/00/c212/c2121100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005382","ref":"96076258","refpg":"96 076 258"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(DCD06)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960K0","refpg":"5960 K0"},[]]]],["pr",{"codesi":"014153","ref":"E161005","refpg":"E161005","typecommercial":"EUROREPAR"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(DCD06)}"]]]]]],["pr",{"codesi":"015879","ref":"VGP151","refpg":"VGP151","typecommercial":"MOTAQUIP"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(DCD06)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001888","obsnfp":"NFP","ref":"0000596980","refpg":"5969 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DCD06)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001849","ref":"0000598115","refpg":"5981 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DCD06)/($,,1,05714)/}"]],["reffour",{},[["four",{},["21800V"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DCD06)/($,,1,05714)/}"]],["reffour",{},[["four",{},["33350Z"]]]]]]]],["pr",{"codesi":"001849","ref":"0000598116","refpg":"5981 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05715,,)/}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006142","ref":"0000693699","refpg":"6936 99"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4X70"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004656","ref":"0000694171","refpg":"6941 71"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100 - 20,4-14-6,6"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004669","ref":"0000695855","refpg":"6958 55"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X9,4-0,6"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"004669","ref":"0000696294","refpg":"6962 94"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X11-0,7"]]]]]]]],["repere",{"rep":"35"},[["pr",{"codesi":"004654","ref":"0000693586","refpg":"6935 86"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-5,5-10"]]]]]]]],["repere",{"rep":"36"},[["pr",{"codesi":"004654","ref":"0000693647","refpg":"6936 47"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-5,3-8"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000693673","refpg":"6936 73"},[]]]]]]]]]]}

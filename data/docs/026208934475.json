@@ -1,18 +1,1 @@
-{
- "ref": "026208934475",
- "refDisplay": "0262 08 934475",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "PRIMAVERA ET (E) ESPAGNE ET BANQ RABAT DOSSIERS SEPARES DEPUIS OPR 06265",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934475","refDisplay":"0262 08 934475","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"PRIMAVERA ET (E) ESPAGNE ET BANQ RABAT DOSSIERS SEPARES DEPUIS OPR 06265","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(%PRIMAV)(%E)(DAL04)/($1,06265,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"004476"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934475"},[["appl",{},["{(?1CS9)(%PRIMAV)(%E)(DAL04)/($1,06265,,)/}"]],["sti",{"ident":"NL934401"},[]],["enssup",{},[["refd",{},["VELOURS HALLEY"]]]],["img",{"numfich":"c9344750","path":"/img/pr/50/c934/c9344750.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016983","cote":"G","obsnfp":"NFP","ref":"96102925","refpg":"96 102 925"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","cote":"D","obsnfp":"NFP","ref":"96102924","refpg":"96 102 924"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"96099780","refpg":"96 099 780"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA3)}"]]]]]],["pr",{"codesi":"016982","obsnfp":"NFP","ref":"96099782","refpg":"96 099 782"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA5)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004476","obsnfp":"NFP","ref":"96025950","refpg":"96 025 950"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(B0DA5)/($,,1,06895)/}"]]]]]]]]]]]]}

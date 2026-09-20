@@ -1,18 +1,1 @@
-{
- "ref": "026206175027",
- "refDisplay": "0262 06 175027",
- "title": "RESERVOIR CARBURANT",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026206175027","refDisplay":"0262 06 175027","title":"RESERVOIR CARBURANT","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000728"},[]],["thesaurus",{"type":"10","code":"000037"},[]],["thesaurus",{"type":"10","code":"000366"},[]],["thesaurus",{"type":"10","code":"000461"},[]],["thesaurus",{"type":"10","code":"000031"},[]],["thesaurus",{"type":"10","code":"005553"},[]],["thesaurus",{"type":"10","code":"000853"},[]],["mpr",{"catal":"0262","grp":"29","grp2":"06","maj":"20111008","numfich":"175027"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL175001"},[]],["img",{"numfich":"c1750270","path":"/img/pr/70/c175/c1750270.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000728","obsnfp":"NFP","ref":"0000150096","refpg":"1500 96"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000037","ref":"0000153638","refpg":"1536 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000366","ref":"0000152540","refpg":"1525 40"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000461","obsnfp":"NFP","ref":"0000152819","refpg":"1528 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000031","ref":"0000152836","refpg":"1528 36"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005553","ref":"0000153747","refpg":"1537 47"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["50X50 EP 15"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000853","ref":"0000153734","refpg":"1537 34"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026201330060",
- "refDisplay": "0262 01 330060",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "DIESEL ET TUD5 ET MA/5",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026201330060","refDisplay":"0262 01 330060","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"DIESEL ET TUD5 ET MA/5","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD5)(%MAR5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0004558"},[]],["thesaurus",{"type":"21","code":"L0995444"},[]],["mpr",{"catal":"0262","grp":"67","grp2":"01","maj":"20111008","numfich":"330060"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD5)(%MAR5)}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0004558"},[]],["img",{"numfich":"c3300600","path":"/img/pr/00/c330/c3300600.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205FY","refpg":"2205 FY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0995444"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP (17X61)"]]]],["reporg",{},[["monte",{},[" CC57"]],["monte",{},[" CB98"]],["monte",{},[" CE71"]],["monte",{},["(CE71)"]],["monte",{},[" CE26"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201HL","refpg":"2201 HL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,06870)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (17X61)"]]]],["reporg",{},[["monte",{},["(CBJ8)"]],["monte",{},["  CB98"]]]]]],["pr",{"codesi":"009391","ref":"00002201XK","refpg":"2201 XK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,06871,,)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (17X61)"]]]],["reporg",{},[["monte",{},[" (CEG1)"]],["monte",{},["  CE71"]],["monte",{},["  CC57"]],["monte",{},["  CE26"]],["monte",{},["  CCE7"]],["monte",{},["  CEG1"]]]]]]]]]]]]}

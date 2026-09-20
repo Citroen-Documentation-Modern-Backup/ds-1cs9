@@ -1,18 +1,1 @@
-{
- "ref": "026207858010",
- "refDisplay": "0262 07 858010",
- "title": "PLANCHE DE BORD - ACCESSOIRES",
- "nature": "",
- "applicability": " JUSQU’A OPR 05314",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"026207858010","refDisplay":"0262 07 858010","title":"PLANCHE DE BORD - ACCESSOIRES","nature":"","applicability":" JUSQU’A OPR 05314","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CS9)/($,,1,05314)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"CH-"},[]],["thesaurus",{"type":"6","code":"TR-"},[]],["thesaurus",{"type":"10","code":"003576"},[]],["thesaurus",{"type":"10","code":"003859"},[]],["thesaurus",{"type":"10","code":"004792"},[]],["thesaurus",{"type":"10","code":"005930"},[]],["thesaurus",{"type":"21","code":"L1010681"},[]],["thesaurus",{"type":"21","code":"L1010682"},[]],["mpr",{"catal":"0262","grp":"450","grp2":"07","maj":"20111008","numfich":"858010"},[["appl",{},["{(?1CS9)/($,,1,05314)/}"]],["sti",{"ident":"NL858001"},[]],["img",{"numfich":"c8580100","path":"/img/pr/00/c858/c8580100.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"003576","ref":"0000822748","refpg":"8227 48"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003859","ref":"0000647527","refpg":"6475 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1010681"},[]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004792","ref":"00006216C6","refpg":"6216 C6"},[["pmont",{"coef":"19"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1010682"},[]]]],["descomp",{},[["lib",{"langue":"01"},["12V-W1,2W"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005930","obsnfp":"NFP","ref":"92508367CH","refpg":"92 508 367 CH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"CH-"},[]]]]]],["pr",{"codesi":"005930","obsnfp":"NFP","ref":"92508367TR","refpg":"92 508 367 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"TR-"},[]]]]]]]]]]]]}

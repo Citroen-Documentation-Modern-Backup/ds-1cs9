@@ -1,18 +1,1 @@
-{
- "ref": "026201002015A",
- "refDisplay": "0262 01 002015A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET CARBURATEUR DEPUIS OPR 04254",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026201002015A","refDisplay":"0262 01 002015A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"ESSENCE ET 1,360L ET CARBURATEUR DEPUIS OPR 04254","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F136)(DAZ08)/($1,04254,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"22","code":"P0009200"},[]],["thesaurus",{"type":"21","code":"L0993096"},[]],["mpr",{"catal":"0262","grp":"4","grp2":"01","maj":"20111116","numfich":"002015A"},[["appl",{},["{(?1CS9)(DCD10)(%B0F136)(DAZ08)/($1,04254,,)/}"]],["sti",{"ident":"T0059388"},[]],["obspage",{"ident":"P0009200"},[]],["img",{"numfich":"c002015a","path":"/img/pr/5a/c002/c002015a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135F2","refpg":"0135 F2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0993096"},[]]]],["reporg",{},[["monte",{},["K1G"]],["monte",{},["(K1G)"]]]]]],["pr",{"codesi":"013644","obsnfp":"NFP","ref":"0000013599","refpg":"0135 99"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0H05)/($,,1,04618)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0H06)/($,,1,04618)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0H09)/($,,1,04618)/}"]]]],["reporg",{},[["monte",{},["KAY"]]]]]]]]]]]]}

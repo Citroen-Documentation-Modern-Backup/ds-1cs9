@@ -1,18 +1,1 @@
-{
- "ref": "026202141925",
- "refDisplay": "0262 02 141925",
- "title": "COMMANDE D’ACCELERATEUR",
- "nature": "",
- "applicability": "SPORT JUSQU’A OPR 05168",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026202141925","refDisplay":"0262 02 141925","title":"COMMANDE D’ACCELERATEUR","nature":"","applicability":"SPORT JUSQU’A OPR 05168","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(B0J0N)/($,,1,05168)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000785"},[]],["thesaurus",{"type":"10","code":"000115"},[]],["thesaurus",{"type":"10","code":"000774"},[]],["thesaurus",{"type":"10","code":"006399"},[]],["thesaurus",{"type":"10","code":"000034"},[]],["thesaurus",{"type":"10","code":"004957"},[]],["thesaurus",{"type":"10","code":"000671"},[]],["thesaurus",{"type":"10","code":"005734"},[]],["thesaurus",{"type":"10","code":"001562"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["thesaurus",{"type":"21","code":"L0997500"},[]],["mpr",{"catal":"0262","grp":"41","grp2":"02","maj":"20111008","numfich":"141925"},[["appl",{},["{(?1CS9)(B0J0N)/($,,1,05168)/}"]],["sti",{"ident":"NL141901"},[]],["img",{"numfich":"c1419250","path":"/img/pr/50/c141/c1419250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000785","obsnfp":"NFP","ref":"96011391","refpg":"96 011 391"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000115","obsnfp":"NFP","ref":"96060371","refpg":"96 060 371"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0997500"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000774","ref":"0000161426","refpg":"1614 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006399","ref":"0000696758","refpg":"6967 58"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["11X29"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000034","ref":"0000163921","refpg":"1639 21"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14,2-18"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004957","obsnfp":"NFP","ref":"0000163128","refpg":"1631 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000671","obsnfp":"NFP","ref":"00001664F4","refpg":"1664 F4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"005734","obsnfp":"NFP","ref":"95640091","refpg":"95 640 091"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001562","obsnfp":"NFP","ref":"95589542","refpg":"95 589 542"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"015290","ref":"0000699468","refpg":"6994 68"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20-22"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694727","refpg":"6947 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14X27-1,5"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006028","ref":"0000693997","refpg":"6939 97"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-7-18"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"006028","ref":"0000693680","refpg":"6936 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-9,7-13"]]]]]]]]]]]]}

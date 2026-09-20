@@ -1,18 +1,1 @@
-{
- "ref": "026205520920",
- "refDisplay": "0262 05 520920",
- "title": "COMBINE DE BORD COMPLET",
- "nature": "",
- "applicability": "GAZOLE ET CONDUITE A GAUCHE DEPUIS OPR 05285",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"026205520920","refDisplay":"0262 05 520920","title":"COMBINE DE BORD COMPLET","nature":"","applicability":"GAZOLE ET CONDUITE A GAUCHE DEPUIS OPR 05285","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?1CS9)(DCD06)(DCX01)/($1,05285,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001935"},[]],["thesaurus",{"type":"21","code":"L1004173"},[]],["thesaurus",{"type":"21","code":"L1004174"},[]],["mpr",{"catal":"0262","grp":"416","grp2":"05","maj":"20111008","numfich":"520920"},[["appl",{},["{(?1CS9)(DCD06)(DCX01)/($1,05285,,)/}"]],["sti",{"ident":"NL520901"},[]],["img",{"numfich":"00021172","path":"/img/pr/72/0002/00021172.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100GT","refpg":"6100 GT"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DMB00)/($1,06779,,)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"96135390","refpg":"96 135 390"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DMB02)(DMM01)(DTQ00)/($,,1,06747)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100GS","refpg":"6100 GS"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DMB02)(DMM01)(DTQ00)/($1,06748,,)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100B4","refpg":"6100 B4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DMB01)(DTQ04)(DGP02)/($,,1,06747)/}"]],["obsligne",{"ident":"L1004173"},[]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006101H4","refpg":"6101 H4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DMB01)(DTQ04)(DGP02)/($1,06748,,)/}"]],["obsligne",{"ident":"L1004174"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"297, 450, 11","shape":"circle"},[]]]]]]]]]]}

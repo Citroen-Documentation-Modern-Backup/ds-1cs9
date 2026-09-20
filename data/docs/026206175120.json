@@ -1,18 +1,1 @@
-{
- "ref": "026206175120",
- "refDisplay": "0262 06 175120",
- "title": "TUBULURE DE REMPLISSAGE RESERVOIR",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026206175120","refDisplay":"0262 06 175120","title":"TUBULURE DE REMPLISSAGE RESERVOIR","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000582"},[]],["thesaurus",{"type":"10","code":"006430"},[]],["thesaurus",{"type":"10","code":"000605"},[]],["thesaurus",{"type":"10","code":"011642"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["mpr",{"catal":"0262","grp":"30","grp2":"06","maj":"20111008","numfich":"175120"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL175101"},[]],["img",{"numfich":"c1751200","path":"/img/pr/00/c175/c1751200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000582","obsnfp":"NFP","ref":"95636973","refpg":"95 636 973"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006430","obsnfp":"NFP","ref":"00001505Y3","refpg":"1505 Y3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000605","obsnfp":"NFP","ref":"0000157780","refpg":"1577 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"011642","ref":"0000650028","refpg":"6500 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004650","ref":"00006981K1","refpg":"6981 K1"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 50-70 LARG 9"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004650","ref":"00006981H7","refpg":"6981 H7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16-27 LARG 9"]]]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"004662","ref":"00006980A8","refpg":"6980 A8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026208934414",
- "refDisplay": "0262 08 934414",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "11 TRE ET 14 TRS ET BERLINE 3PTES JUSQU’A OPR 03886",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934414","refDisplay":"0262 08 934414","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"11 TRE ET 14 TRS ET BERLINE 3PTES JUSQU’A OPR 03886","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(%11TRE)(%14TRS)(B0DA3)/($,,1,03886)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016983"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934414"},[["appl",{},["{(?1CS9)(%11TRE)(%14TRS)(B0DA3)/($,,1,03886)/}"]],["sti",{"ident":"NL934401"},[]],["enssup",{},[["refd",{},["TISSU CHAMPION"]]]],["img",{"numfich":"c9344140","path":"/img/pr/40/c934/c9344140.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"95609933","refpg":"95 609 933"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

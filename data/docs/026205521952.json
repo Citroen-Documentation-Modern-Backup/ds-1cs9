@@ -1,18 +1,1 @@
-{
- "ref": "026205521952",
- "refDisplay": "0262 05 521952",
- "title": "INTERRUPTEURS CONSOLE - PLANCHE DE BORD",
- "nature": "",
- "applicability": " DEPUIS OPR 05285",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"026205521952","refDisplay":"0262 05 521952","title":"INTERRUPTEURS CONSOLE - PLANCHE DE BORD","nature":"","applicability":" DEPUIS OPR 05285","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CS9)/($1,05285,,)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"FXX-"},[]],["thesaurus",{"type":"6","code":"ZL-"},[]],["thesaurus",{"type":"10","code":"005386"},[]],["thesaurus",{"type":"10","code":"003786"},[]],["thesaurus",{"type":"10","code":"006053"},[]],["thesaurus",{"type":"10","code":"003819"},[]],["thesaurus",{"type":"10","code":"002501"},[]],["thesaurus",{"type":"10","code":"004663"},[]],["thesaurus",{"type":"21","code":"L1004440"},[]],["thesaurus",{"type":"21","code":"L1004441"},[]],["thesaurus",{"type":"21","code":"L1004447"},[]],["mpr",{"catal":"0262","grp":"415","grp2":"05","maj":"20111008","numfich":"521952"},[["appl",{},["{(?1CS9)/($1,05285,,)/}"]],["sti",{"ident":"NL521901"},[]],["img",{"numfich":"00021193","path":"/img/pr/93/0002/00021193.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005386","ref":"0000655288","refpg":"6552 88"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"FXX-"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"105, 105, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003786","obsnfp":"NFP","ref":"96120301ZL","refpg":"96 120 301 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1004440"},[]],["complpr",{"couleur":"ZL-"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"69, 338, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003786","obsnfp":"NFP","ref":"96120302ZL","refpg":"96 120 302 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1004441"},[]],["complpr",{"couleur":"ZL-"},[]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"403, 455, 11","shape":"circle"},[]]]]]],["repere",{"rep":"60"},[["pr",{"codesi":"006053","obsnfp":"NFP","ref":"92559950","refpg":"92 559 950"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%B0HXT)}"]]]]]],["pr",{"codesi":"003819","obsnfp":"NFP","ref":"97517899ZL","refpg":"97 517 899 ZL"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(%B0HXT)}"]],["complpr",{"couleur":"ZL-"},[]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"46, 178, 11","shape":"circle"},[]]]]]],["repere",{"rep":"61"},[["pr",{"codesi":"002501","obsnfp":"NFP","ref":"95632402","refpg":"95 632 402"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0H01)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0H15)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0H70)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"424, 10, 11","shape":"circle"},[]]]]]],["repere",{"rep":"62"},[["pr",{"codesi":"004663","obsnfp":"NFP","ref":"96115098ZL","refpg":"96 115 098 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1004447"},[]],["complpr",{"couleur":"ZL-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["57X53"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"369, 277, 11","shape":"circle"},[]]]]]]]]]]}

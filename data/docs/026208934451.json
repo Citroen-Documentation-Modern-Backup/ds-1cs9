@@ -1,18 +1,1 @@
-{
- "ref": "026208934451",
- "refDisplay": "0262 08 934451",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "AUDACE ET (GB) GRANDE-BRETAGN ET TISSU AIGUILLETTES F378 DEPUIS OPR 06020",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934451","refDisplay":"0262 08 934451","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"AUDACE ET (GB) GRANDE-BRETAGN ET TISSU AIGUILLETTES F378 DEPUIS OPR 06020","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(%AUDACE)(%GB)(%F378)/($1,06020,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"016982"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934451"},[["appl",{},["{(?1CS9)(%AUDACE)(%GB)(%F378)/($1,06020,,)/}"]],["sti",{"ident":"NL934401"},[]],["img",{"numfich":"00094845","path":"/img/pr/45/0009/00094845.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"96099785","refpg":"96 099 785"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"304, 59, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"96099780","refpg":"96 099 780"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA3)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"117, 436, 11","shape":"circle"},[]]]]]]]]]]}

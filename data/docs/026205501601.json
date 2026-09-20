@@ -1,18 +1,1 @@
-{
- "ref": "026205501601",
- "refDisplay": "0262 05 501601",
- "title": "FAISCEAU DIRECTION SUSPENSION",
- "nature": "",
- "applicability": "MOTEUR ELECTRIQUE SA13",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501601","refDisplay":"0262 05 501601","title":"FAISCEAU DIRECTION SUSPENSION","nature":"","applicability":"MOTEUR ELECTRIQUE SA13","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)(B0FE3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"008593"},[]],["thesaurus",{"type":"10","code":"009317"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"21","code":"L1003147"},[]],["thesaurus",{"type":"21","code":"L1003148"},[]],["mpr",{"catal":"0262","grp":"518","grp2":"05","maj":"20111008","numfich":"501601"},[["appl",{},["{(?1CS9)(B0FE3)}"]],["sti",{"ident":"NL501601"},[]],["img",{"numfich":"00021098","path":"/img/pr/98/0002/00021098.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008593","obsnfp":"NFP","ref":"00006526N3","refpg":"6526 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["nlcfr",{},[["monte",{},["9623961280"]],["livre",{},["9625621980"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"211, 188, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"009317","ref":"00006526Q1","refpg":"6526 Q1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1003147"},[]],["nlcfr",{},[["livre",{},["9625622080"]]]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"407, 328, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004647","ref":"00006995G8","refpg":"6995 G8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1003148"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26-37"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"228, 198, 11","shape":"circle"},[]],["area",{"coords":"44, 5, 11","shape":"circle"},[]]]]]]]]]]}

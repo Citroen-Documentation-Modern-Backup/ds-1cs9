@@ -1,18 +1,1 @@
-{
- "ref": "026206235915",
- "refDisplay": "0262 06 235915",
- "title": "VASE EXPANSION CANALISATION EAU",
- "nature": "",
- "applicability": "DIESEL ET TUD5",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"026206235915","refDisplay":"0262 06 235915","title":"VASE EXPANSION CANALISATION EAU","nature":"","applicability":"DIESEL ET TUD5","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000045"},[]],["thesaurus",{"type":"10","code":"000084"},[]],["thesaurus",{"type":"10","code":"010938"},[]],["thesaurus",{"type":"10","code":"006729"},[]],["thesaurus",{"type":"10","code":"000658"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["thesaurus",{"type":"22","code":"P0011150"},[]],["thesaurus",{"type":"21","code":"L1007042"},[]],["thesaurus",{"type":"21","code":"L1007046"},[]],["mpr",{"catal":"0262","grp":"23","grp2":"06","maj":"20120313","numfich":"235915"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD5)}"]],["sti",{"ident":"T0060190"},[]],["obspage",{"ident":"P0011150"},[]],["img",{"numfich":"c2359150","path":"/img/pr/50/c235/c2359150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000045","ref":"00001307AN","refpg":"1307 AN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1007042"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000084","ref":"0000130684","refpg":"1306 84"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,06874)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["1,4 BAR"]]]]]],["pr",{"codesi":"000084","ref":"00001306C7","refpg":"1306 C7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,06875,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["1,4 BAR"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010938","ref":"00001307T0","refpg":"1307 T0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7,5X9,5 L 1000"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006729","ref":"00001306F0","refpg":"1306 F0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1007046"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 40"]]]]]],["pr",{"codesi":"006729","ref":"0000130647","refpg":"1306 47"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%CAD)}"]],["reffour",{},[["four",{},["33350Z"]]]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000658","obsnfp":"NFP","ref":"96174091","refpg":"96 174 091"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006028","ref":"00006935C7","refpg":"6935 C7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M6X100"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006142","ref":"0000693639","refpg":"6936 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5 X 80 - 4 - 8"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004656","ref":"0000694171","refpg":"6941 71"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100 - 20,4-14-6,6"]]]]]]]]]]]]}

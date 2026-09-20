@@ -1,18 +1,1 @@
-{
- "ref": "026208982929",
- "refDisplay": "0262 08 982929",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "PRESTIGE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"026208982929","refDisplay":"0262 08 982929","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"PRESTIGE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CS9)(B0J7R)}","tree":["document",{},[["thesaurus",{"type":"7","code":"F233-"},[]],["thesaurus",{"type":"6","code":"FZJ-"},[]],["thesaurus",{"type":"6","code":"ZL-"},[]],["thesaurus",{"type":"6","code":"FZL-"},[]],["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"10","code":"004494"},[]],["thesaurus",{"type":"10","code":"004401"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"015292"},[]],["thesaurus",{"type":"10","code":"005366"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0262","grp":"363","grp2":"08","maj":"20111008","numfich":"982929"},[["appl",{},["{(?1CS9)(B0J7R)}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["VELOURS UNI"]]]],["img",{"numfich":"c9829290","path":"/img/pr/90/c982/c9829290.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"00009399FC","refpg":"9399 FC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA5)}"]],["complpr",{"couleur":"FZJ-","matiere":"F233-"},[]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"00009399FA","refpg":"9399 FA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0DA5)}"]],["complpr",{"couleur":"FZJ-","matiere":"F233-"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004494","cote":"G","obsnfp":"NFP","ref":"95634116ZL","refpg":"95 634 116 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"ZL-"},[]]]]]],["pr",{"codesi":"004494","cote":"D","obsnfp":"NFP","ref":"95634115ZL","refpg":"95 634 115 ZL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"ZL-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004401","obsnfp":"NFP","ref":"0000931960","refpg":"9319 60"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"FZL-"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"015290","ref":"00006999CR","refpg":"6999 CR"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"015292","ref":"00006994P9","refpg":"6994 P9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,4"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"005366","ref":"00006995N7","refpg":"6995 N7"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["TROU 8 H=20"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"010757","obsnfp":"NFP","ref":"0000691044","refpg":"6910 44"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,3-32"]]]]]]]]]]]]}

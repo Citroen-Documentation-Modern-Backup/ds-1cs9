@@ -1,18 +1,1 @@
-{
- "ref": "026208982911",
- "refDisplay": "0262 08 982911",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "THALASSA ET SX DEPUIS OPR 04953 JUSQU’A OPR 05284",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"026208982911","refDisplay":"0262 08 982911","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"THALASSA ET SX DEPUIS OPR 04953 JUSQU’A OPR 05284","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CS9)(B0J4F)(%SX)/($1,04953,1,05284)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"LE-"},[]],["thesaurus",{"type":"6","code":"ZL-"},[]],["thesaurus",{"type":"6","code":"FZL-"},[]],["thesaurus",{"type":"10","code":"004494"},[]],["thesaurus",{"type":"10","code":"004401"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"015292"},[]],["thesaurus",{"type":"10","code":"005366"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["mpr",{"catal":"0262","grp":"363","grp2":"08","maj":"20111008","numfich":"982911"},[["appl",{},["{(?1CS9)(B0J4F)(%SX)/($1,04953,1,05284)/}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["TEP + JERSEY TWEED"]]]],["img",{"numfich":"c9829110","path":"/img/pr/10/c982/c9829110.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"004494","obsnfp":"NFP","ref":"95634398LE","refpg":"95 634 398 LE"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)/($,,1,05618)/}"]],["complpr",{"couleur":"LE-"},[]]]]]],["pr",{"codesi":"004494","obsnfp":"NFP","ref":"95634398ZL","refpg":"95 634 398 ZL"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"ZL-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004401","obsnfp":"NFP","ref":"97517642LE","refpg":"97 517 642 LE"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"LE-"},[]]]]]],["pr",{"codesi":"004401","obsnfp":"NFP","ref":"0000931960","refpg":"9319 60"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"FZL-"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"015290","ref":"00006999CR","refpg":"6999 CR"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"015292","ref":"00006994P9","refpg":"6994 P9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,4"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"005366","ref":"00006995N7","refpg":"6995 N7"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["TROU 8 H=20"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"010757","obsnfp":"NFP","ref":"0000691044","refpg":"6910 44"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,3-32"]]]]]]]]]]]]}

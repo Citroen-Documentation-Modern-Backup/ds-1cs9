@@ -1,18 +1,1 @@
-{
- "ref": "026205501002",
- "refDisplay": "0262 05 501002",
- "title": "FAISCEAUX COMPLEMENTAIRES AV",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501002","refDisplay":"0262 05 501002","title":"FAISCEAUX COMPLEMENTAIRES AV","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["mpr",{"catal":"0262","grp":"512","grp2":"05","maj":"20120105","numfich":"501002"},[["appl",{},["{(?1CS9)}"]],["sti",{"ident":"T0059931"},[]],["enssup",{},[["refd",{},["2 EME AVERTISSEUR"]]]],["img",{"numfich":"00021055","path":"/img/pr/55/0002/00021055.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96110804","refpg":"96 110 804"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GT)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GTI)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%11TZX)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%14TZX)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"131, 398, 11","shape":"circle"},[]]]]]]]]]]}

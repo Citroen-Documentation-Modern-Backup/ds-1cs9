@@ -1,18 +1,1 @@
-{
- "ref": "026202140018",
- "refDisplay": "0262 02 140018",
- "title": "ALIMENTATION",
- "nature": "",
- "applicability": "DIESEL ET TUD3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026202140018","refDisplay":"0262 02 140018","title":"ALIMENTATION","nature":"","applicability":"DIESEL ET TUD3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0262","grp":"26","grp2":"02","maj":"20111008","numfich":"140018"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD3)}"]],["sti",{"ident":"NL140001"},[]],["img",{"numfich":"c1400180","path":"/img/pr/80/c140/c1400180.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"0000034298","refpg":"0342 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DCD06)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004682","ref":"00006913K7","refpg":"6913 K7"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-65"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]]]]]]}

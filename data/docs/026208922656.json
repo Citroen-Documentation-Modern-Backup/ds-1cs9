@@ -1,18 +1,1 @@
-{
- "ref": "026208922656",
- "refDisplay": "0262 08 922656",
- "title": "SIEGES AVANT - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "(GB) GRANDE-BRETAGN ET BERLINE 3PTES DEPUIS OPR 05806 JUSQU’A OPR 06027",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0220"
-  }
- ]
-}
+{"ref":"026208922656","refDisplay":"0262 08 922656","title":"SIEGES AVANT - MATELASSURE - COIFFE","nature":"","applicability":"(GB) GRANDE-BRETAGN ET BERLINE 3PTES DEPUIS OPR 05806 JUSQU’A OPR 06027","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0220"}],"kind":"pr","appl":"{(?1CS9)(%GB)(B0DA3)/($1,05806,1,06027)/}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"6","code":"ZL-"},[]],["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"008157"},[]],["thesaurus",{"type":"10","code":"004399"},[]],["thesaurus",{"type":"10","code":"004406"},[]],["thesaurus",{"type":"10","code":"004476"},[]],["mpr",{"catal":"0262","grp":"423","grp2":"08","maj":"20111008","numfich":"922656"},[["appl",{},["{(?1CS9)(%GB)(B0DA3)/($1,05806,1,06027)/}"]],["sti",{"ident":"NL922601"},[]],["enssup",{},[["refd",{},["VELOURS UNI DU JAMES"]]]],["img",{"numfich":"c9226560","path":"/img/pr/60/c922/c9226560.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"00008904Q7","refpg":"8904 Q7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"0000895080","refpg":"8950 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"008157","obsnfp":"NFP","ref":"96100566","refpg":"96 100 566"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 290"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004399","ref":"0000891448","refpg":"8914 48"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004406","obsnfp":"NFP","ref":"95613213ZL","refpg":"95 613 213 ZL"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"ZL-"},[]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004476","ref":"96019800","refpg":"96 019 800"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["complpr",{"matiere":"C001-"},[]]]]]]]]]]]]}

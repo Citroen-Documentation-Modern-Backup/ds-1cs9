@@ -1,18 +1,1 @@
-{
- "ref": "026203440080",
- "refDisplay": "0262 03 440080",
- "title": "POMPE D’ASSISTANCE DE DIRECTION",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"026203440080","refDisplay":"0262 03 440080","title":"POMPE D’ASSISTANCE DE DIRECTION","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001546"},[]],["thesaurus",{"type":"10","code":"001029"},[]],["thesaurus",{"type":"10","code":"010001"},[]],["mpr",{"catal":"0262","grp":"228","grp2":"03","maj":"20111008","numfich":"440080"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL440001"},[]],["img",{"numfich":"00021008","path":"/img/pr/08/0002/00021008.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001546","ref":"00004009H4","refpg":"4009 H4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001029","ref":"00004009H1","refpg":"4009 H1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010001","ref":"00004018H7","refpg":"4018 H7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026205614125",
- "refDisplay": "0262 05 614125",
- "title": "BOITIER A FUSIBLES RELAIS",
- "nature": "",
- "applicability": "MOTEUR ELECTRIQUE SA13",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0942"
-  }
- ]
-}
+{"ref":"026205614125","refDisplay":"0262 05 614125","title":"BOITIER A FUSIBLES RELAIS","nature":"","applicability":"MOTEUR ELECTRIQUE SA13","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0942"}],"kind":"pr","appl":"{(?1CS9)(B0FE3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009283"},[]],["thesaurus",{"type":"10","code":"009281"},[]],["mpr",{"catal":"0262","grp":"532","grp2":"05","maj":"20111008","numfich":"614125"},[["appl",{},["{(?1CS9)(B0FE3)}"]],["sti",{"ident":"NL614101"},[]],["img",{"numfich":"00021225","path":"/img/pr/25/0002/00021225.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009283","obsnfp":"NFP","ref":"0000650480","refpg":"6504 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["130 A"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"93, 316, 11","shape":"circle"},[]],["area",{"coords":"186, 365, 11","shape":"circle"},[]],["area",{"coords":"357, 410, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"009281","obsnfp":"NFP","ref":"0000650478","refpg":"6504 78"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"170, 140, 11","shape":"circle"},[]],["area",{"coords":"114, 327, 11","shape":"circle"},[]],["area",{"coords":"212, 196, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026208934478",
- "refDisplay": "0262 08 934478",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "BLUE PUNCH DEPUIS OPR 04711 JUSQU’A OPR 04799",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"026208934478","refDisplay":"0262 08 934478","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"BLUE PUNCH DEPUIS OPR 04711 JUSQU’A OPR 04799","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CS9)(B0J3U)/($1,04711,1,04799)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"22","code":"P0004737"},[]],["mpr",{"catal":"0262","grp":"437","grp2":"08","maj":"20111008","numfich":"934478"},[["appl",{},["{(?1CS9)(B0J3U)/($1,04711,1,04799)/}"]],["sti",{"ident":"NL934401"},[]],["obspage",{"ident":"P0004737"},[]],["enssup",{},[["refd",{},["TISSU CUBIC + TEP"]]]],["img",{"numfich":"c9344780","path":"/img/pr/80/c934/c9344780.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"96099785","refpg":"96 099 785"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"96099780","refpg":"96 099 780"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026203434320",
- "refDisplay": "0262 03 434320",
- "title": "AMORTISSEUR ARRIERE",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0032"
-  }
- ]
-}
+{"ref":"026203434320","refDisplay":"0262 03 434320","title":"AMORTISSEUR ARRIERE","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0032"}],"kind":"pr","appl":"{(?1CS9)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001785"},[]],["thesaurus",{"type":"10","code":"002356"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0262","grp":"156","grp2":"03","maj":"20111008","numfich":"434320"},[["appl",{},["{(?1CS9)(%ELECTR)}"]],["sti",{"ident":"NL434301"},[]],["img",{"numfich":"c4343200","path":"/img/pr/00/c434/c4343200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001785","ref":"00005206F5","refpg":"5206 F5"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00005206TC","refpg":"5206 TC"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002356","obsnfp":"NFP","ref":"0000524931","refpg":"5249 31"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X175-90"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002356","ref":"0000524930","refpg":"5249 30"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14X200-102"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004667","ref":"0000503737","refpg":"5037 37"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14,5X27 EP 2,5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004651","ref":"0000693316","refpg":"6933 16"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X175-12"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004651","ref":"0000693209","refpg":"6932 09"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14X200-11"]]]]]]]]]]]]}

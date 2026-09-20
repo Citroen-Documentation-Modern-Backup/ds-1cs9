@@ -1,18 +1,1 @@
-{
- "ref": "026207008010",
- "refDisplay": "0262 07 008010",
- "title": "CAISSE",
- "nature": "",
- "applicability": "BERLINE 5PTES JUSQU’A OPR 05045",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0146"
-  }
- ]
-}
+{"ref":"026207008010","refDisplay":"0262 07 008010","title":"CAISSE","nature":"","applicability":"BERLINE 5PTES JUSQU’A OPR 05045","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0146"}],"kind":"pr","appl":"{(?1CS9)(B0DA5)/($,,1,05045)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"010176"},[]],["thesaurus",{"type":"22","code":"P0004686"},[]],["thesaurus",{"type":"21","code":"L1008196"},[]],["mpr",{"catal":"0262","grp":"376","grp2":"07","maj":"20111008","numfich":"008010"},[["appl",{},["{(?1CS9)(B0DA5)/($,,1,05045)/}"]],["sti",{"ident":"NL008001"},[]],["obspage",{"ident":"P0004686"},[]],["img",{"numfich":"00021346","path":"/img/pr/46/0002/00021346.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"010176","obsnfp":"NFP","ref":"0000721483","refpg":"7214 83"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1008196"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"197, 377, 11","shape":"circle"},[]]]]]]]]]]}

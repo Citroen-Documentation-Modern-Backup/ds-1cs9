@@ -1,18 +1,1 @@
-{
- "ref": "026205501865",
- "refDisplay": "0262 05 501865",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": "MOTEUR ELECTRIQUE SA13",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026205501865","refDisplay":"0262 05 501865","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":"MOTEUR ELECTRIQUE SA13","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CS9)(B0FE3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"0262","grp":"503","grp2":"05","maj":"20111008","numfich":"501865"},[["appl",{},["{(?1CS9)(B0FE3)}"]],["sti",{"ident":"NL501801"},[]],["img",{"numfich":"00021145","path":"/img/pr/45/0002/00021145.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006527S7","refpg":"6527 S7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["nlcfr",{},[["livre",{},["9622837580"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"274, 244, 11","shape":"circle"},[]]]]]]]]]]}

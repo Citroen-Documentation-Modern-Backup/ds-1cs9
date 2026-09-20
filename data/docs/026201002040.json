@@ -1,18 +1,1 @@
-{
- "ref": "026201002040",
- "refDisplay": "0262 01 002040",
- "title": "MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE ALUMINIUM",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026201002040","refDisplay":"0262 01 002040","title":"MOTEUR","nature":"","applicability":"ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE ALUMINIUM","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F136)(%DAZ07)(%CARTCA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"22","code":"P0004525"},[]],["mpr",{"catal":"0262","grp":"4","grp2":"01","maj":"20111008","numfich":"002040"},[["appl",{},["{(?1CS9)(DCD10)(%B0F136)(%DAZ07)(%CARTCA)}"]],["sti",{"ident":"NL002001"},[]],["obspage",{"ident":"P0004525"},[]],["img",{"numfich":"c0020400","path":"/img/pr/00/c002/c0020400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013646","obsnfp":"NFP","ref":"95668945","refpg":"95 668 945"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,04922)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP KDZ"]]]],["reporg",{},[["monte",{},[" (KDZ)"]],["monte",{},[" KDZ"]]]]]],["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135K8","refpg":"0135 K8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04923,,)/}"]]]],["reporg",{},[["monte",{},["(KDY)"]],["monte",{},["KDY"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139CH","refpg":"0139 CH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04923,,)/(~2)}"]]]],["reporg",{},[["monte",{},["(KDY)"]],["monte",{},["KDY"]]]]]]]]]]]]}

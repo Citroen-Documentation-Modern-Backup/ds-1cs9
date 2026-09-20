@@ -1,18 +1,1 @@
-{
- "ref": "026205520910",
- "refDisplay": "0262 05 520910",
- "title": "COMBINE DE BORD COMPLET",
- "nature": "",
- "applicability": "ESSENCE ET CONDUITE A GAUCHE DEPUIS OPR 05285",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"026205520910","refDisplay":"0262 05 520910","title":"COMBINE DE BORD COMPLET","nature":"","applicability":"ESSENCE ET CONDUITE A GAUCHE DEPUIS OPR 05285","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(DCX01)/($1,05285,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001935"},[]],["mpr",{"catal":"0262","grp":"416","grp2":"05","maj":"20111008","numfich":"520910"},[["appl",{},["{(?1CS9)(DCD10)(DCX01)/($1,05285,,)/}"]],["sti",{"ident":"NL520901"},[]],["img",{"numfich":"00021172","path":"/img/pr/72/0002/00021172.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100HC","refpg":"6100 HC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(@ESSTU)(DMB00)/($1,06779,,)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"96080609","refpg":"96 080 609"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(@ESSTU)(DMB02)/($,,1,06778)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100HA","refpg":"6100 HA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(@ESSTU)(DMB02)/($1,06779,,)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100GZ","refpg":"6100 GZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(@ESSTU)(DGP01)(DMB01)(DTQ04)(DMM00)/($1,06779,,)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100GV","refpg":"6100 GV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(@ESSTU)(DGP03)(DMB01)(DTQ04)(DMM00)/($1,06779,,)/}"]]]]]],["pr",{"codesi":"001935","obsnfp":"NFP","ref":"96128781","refpg":"96 128 781"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(@ESSTU)(DGP01)(DMB01)(DTQ04)(DMM02)/($,,1,06778)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"297, 450, 11","shape":"circle"},[]]]]]]]]]]}

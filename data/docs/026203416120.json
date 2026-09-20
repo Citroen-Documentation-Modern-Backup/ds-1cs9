@@ -1,18 +1,1 @@
-{
- "ref": "026203416120",
- "refDisplay": "0262 03 416120",
- "title": "ROUES",
- "nature": "",
- "applicability": "MONTAGE ROUE ALLIAGE ET 1,360L ET INJECTION DEPUIS OPR 05278 SAUF ESSENCE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"026203416120","refDisplay":"0262 03 416120","title":"ROUES","nature":"","applicability":"MONTAGE ROUE ALLIAGE ET 1,360L ET INJECTION DEPUIS OPR 05278 SAUF ESSENCE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CS9)(DRP02)(%B0F136)(DAZ04)/($1,05278,,)/[(DCD10)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"002260"},[]],["thesaurus",{"type":"10","code":"005392"},[]],["thesaurus",{"type":"10","code":"002359"},[]],["thesaurus",{"type":"10","code":"002346"},[]],["thesaurus",{"type":"10","code":"001861"},[]],["mpr",{"catal":"0262","grp":"141","grp2":"03","maj":"20111008","numfich":"416120"},[["appl",{},["{(?1CS9)(DRP02)(%B0F136)(DAZ04)/($1,05278,,)/[(DCD10)]}"]],["sti",{"ident":"NL416101"},[]],["img",{"numfich":"c4161200","path":"/img/pr/00/c416/c4161200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002260","obsnfp":"NFP","ref":"95631351","refpg":"95 631 351"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)[(%GT)]}"]]]],["descomp",{},[["lib",{"langue":"01"},["450 JX13 CH 3,23"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002260","obsnfp":"NFP","ref":"96106951","refpg":"96 106 951"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%GT)}"]]]],["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%EXCLU)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5,00 JX13 CH 3 14"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005392","obsnfp":"NFP","ref":"96030253","refpg":"96 030 253"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)[(%GT)]}"]]]],["descomp",{},[["lib",{"langue":"01"},["4-50 BX13 FH 3-25 RS"]]]]]],["pr",{"codesi":"005392","obsnfp":"NFP","ref":"95639074","refpg":"95 639 074"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GT)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%EXCLU)}"]]]],["descomp",{},[["lib",{"langue":"01"},["500 B 13 FH 14"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002359","ref":"0000540535","refpg":"5405 35"},[["pmont",{"coef":"12"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X125-52,8"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002346","ref":"0000540408","refpg":"5404 08"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001861","ref":"0000540402","refpg":"5404 02"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026201330501",
- "refDisplay": "0262 01 330501",
- "title": "NECESSAIRE DE REPARATION BV",
- "nature": "",
- "applicability": "MA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"026201330501","refDisplay":"0262 01 330501","title":"NECESSAIRE DE REPARATION BV","nature":"","applicability":"MA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CS9)(%MA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000865"},[]],["mpr",{"catal":"0262","grp":"80","grp2":"01","maj":"20111008","numfich":"330501"},[["appl",{},["{(?1CS9)(%MA)}"]],["sti",{"ident":"NL330501"},[]],["img",{"numfich":"00020735","path":"/img/pr/35/0002/00020735.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000865","ref":"0000229945","refpg":"2299 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05047,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"387, 469, 11","shape":"circle"},[]]]]]]]]]]}

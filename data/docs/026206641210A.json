@@ -1,18 +1,1 @@
-{
- "ref": "026206641210A",
- "refDisplay": "0262 06 641210A",
- "title": "BOITIER PULSEUR DE CLIMATISATION",
- "nature": "",
- "applicability": "SANS REFRIGERATION DEPUIS OPR 05014 JUSQU’A OPR 05314",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026206641210A","refDisplay":"0262 06 641210A","title":"BOITIER PULSEUR DE CLIMATISATION","nature":"","applicability":"SANS REFRIGERATION DEPUIS OPR 05014 JUSQU’A OPR 05314","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CS9)(DRE00)/($1,05014,1,05314)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000849"},[]],["thesaurus",{"type":"10","code":"002668"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["thesaurus",{"type":"10","code":"003672"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"0262","grp":"462","grp2":"06","maj":"20111008","numfich":"641210A"},[["appl",{},["{(?1CS9)(DRE00)/($1,05014,1,05314)/}"]],["sti",{"ident":"NL641201"},[]],["img",{"numfich":"c641210a","path":"/img/pr/0a/c641/c641210a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000849","ref":"00006441G1","refpg":"6441 G1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["110W"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002668","obsnfp":"NFP","ref":"96092820","refpg":"96 092 820"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004777","obsnfp":"NFP","ref":"96054944","refpg":"96 054 944"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM EXT 14X30 EP 12"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003672","obsnfp":"NFP","ref":"95632052","refpg":"95 632 052"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"010757","ref":"00006910A5","refpg":"6910 A5"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2-19"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006924H5","refpg":"6924 H5"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"00006947G6","refpg":"6947 G6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X18-2"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006028","ref":"0000693997","refpg":"6939 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-7-18"]]]]]]]]]]]]}

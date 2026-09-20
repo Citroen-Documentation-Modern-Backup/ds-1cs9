@@ -1,18 +1,1 @@
-{
- "ref": "026203434435",
- "refDisplay": "0262 03 434435",
- "title": "BRAS DE SUSPENSION ARRIERE",
- "nature": "",
- "applicability": "DIESEL ET TUD5",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0030"
-  }
- ]
-}
+{"ref":"026203434435","refDisplay":"0262 03 434435","title":"BRAS DE SUSPENSION ARRIERE","nature":"","applicability":"DIESEL ET TUD5","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0030"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001873"},[]],["thesaurus",{"type":"10","code":"007884"},[]],["thesaurus",{"type":"10","code":"001802"},[]],["thesaurus",{"type":"10","code":"002107"},[]],["thesaurus",{"type":"10","code":"001887"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0262","grp":"157","grp2":"03","maj":"20111008","numfich":"434435"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD5)}"]],["sti",{"ident":"NL434401"},[]],["img",{"numfich":"c4344350","path":"/img/pr/50/c434/c4344350.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001873","cote":"G","ref":"00005175V6","refpg":"5175 V6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["pr",{"codesi":"001873","cote":"D","ref":"00005175V7","refpg":"5175 V7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007884","ref":"0000515411","refpg":"5154 11"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001802","ref":"0000513255","refpg":"5132 55"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["EXT"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001802","ref":"0000513164","refpg":"5131 64"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INT"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002107","ref":"0000513322","refpg":"5133 22"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001887","ref":"0000516637","refpg":"5166 37"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(DSE01)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 48MM"]]]]]],["pr",{"codesi":"001887","ref":"0000516644","refpg":"5166 44"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)(DSE05)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 61MM"]]]]]]]]]]]]}

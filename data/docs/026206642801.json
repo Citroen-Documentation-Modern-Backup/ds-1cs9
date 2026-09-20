@@ -1,18 +1,1 @@
-{
- "ref": "026206642801",
- "refDisplay": "0262 06 642801",
- "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
- "nature": "",
- "applicability": "REFRIGERATION JUSQU’A OPR 05314",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026206642801","refDisplay":"0262 06 642801","title":"COMMANDE DE CHAUFFAGE ET D’AERATION","nature":"","applicability":"REFRIGERATION JUSQU’A OPR 05314","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CS9)(%DRE10)/($,,1,05314)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002944"},[]],["thesaurus",{"type":"10","code":"003786"},[]],["thesaurus",{"type":"10","code":"002442"},[]],["thesaurus",{"type":"10","code":"007703"},[]],["mpr",{"catal":"0262","grp":"463","grp2":"06","maj":"20111008","numfich":"642801"},[["appl",{},["{(?1CS9)(%DRE10)/($,,1,05314)/}"]],["sti",{"ident":"NL642801"},[]],["img",{"numfich":"00021335","path":"/img/pr/35/0002/00021335.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002944","obsnfp":"NFP","ref":"95653016","refpg":"95 653 016"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["reffour",{},[["four",{},["53328P"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"265, 61, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003786","obsnfp":"NFP","ref":"95653017","refpg":"95 653 017"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["reffour",{},[["four",{},["53328P"]]]]]],["descomp",{},[["lib",{"langue":"01"},["3 POSITIONS"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"153, 102, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002442","obsnfp":"NFP","ref":"95653018","refpg":"95 653 018"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]],["reffour",{},[["four",{},["53328P"]]]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"317, 13, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007703","obsnfp":"NFP","ref":"95653019","refpg":"95 653 019"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["reffour",{},[["four",{},["53328P"]]]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"391, 473, 11","shape":"circle"},[]]]]]]]]]]}

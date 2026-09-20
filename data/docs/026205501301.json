@@ -1,18 +1,1 @@
-{
- "ref": "026205501301",
- "refDisplay": "0262 05 501301",
- "title": "FAISCEAU ELECTROVANNE ANTIPOLLUTION",
- "nature": "",
- "applicability": "(J) JAPON",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501301","refDisplay":"0262 05 501301","title":"FAISCEAU ELECTROVANNE ANTIPOLLUTION","nature":"","applicability":"(J) JAPON","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)(B0H49)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006974"},[]],["thesaurus",{"type":"21","code":"L1003143"},[]],["mpr",{"catal":"0262","grp":"515","grp2":"05","maj":"20111008","numfich":"501301"},[["appl",{},["{(?1CS9)(B0H49)}"]],["sti",{"ident":"NL501301"},[]],["img",{"numfich":"00021096","path":"/img/pr/96/0002/00021096.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006974","obsnfp":"NFP","ref":"96086242","refpg":"96 086 242"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%14TRS)}"]],["obsligne",{"ident":"L1003143"},[]]]]]],["pr",{"codesi":"006974","obsnfp":"NFP","ref":"96086241","refpg":"96 086 241"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GT)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"183, 150, 11","shape":"circle"},[]]]]]]]]]]}

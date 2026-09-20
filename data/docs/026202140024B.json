@@ -1,18 +1,1 @@
-{
- "ref": "026202140024B",
- "refDisplay": "0262 02 140024B",
- "title": "ALIMENTATION",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET GT ET CLIMATISEUR ET CARTER CYLINDRE ALUMINIUM JUSQU’A OPR 05251",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"026202140024B","refDisplay":"0262 02 140024B","title":"ALIMENTATION","nature":"","applicability":"ESSENCE ET 1,360L ET GT ET CLIMATISEUR ET CARTER CYLINDRE ALUMINIUM JUSQU’A OPR 05251","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F136)(%GT)(DCL10)(%CARTCA)/($,,1,05251)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000140"},[]],["thesaurus",{"type":"10","code":"000819"},[]],["thesaurus",{"type":"10","code":"000331"},[]],["thesaurus",{"type":"10","code":"005109"},[]],["thesaurus",{"type":"10","code":"000292"},[]],["thesaurus",{"type":"10","code":"000296"},[]],["thesaurus",{"type":"10","code":"000814"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"21","code":"L0996886"},[]],["mpr",{"catal":"0262","grp":"34","grp2":"02","maj":"20111008","numfich":"140024B"},[["appl",{},["{(?1CS9)(DCD10)(%B0F136)(%GT)(DCL10)(%CARTCA)/($,,1,05251)/}"]],["sti",{"ident":"NL140001"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["32-34 Z2 REP 409/1"]]]],["img",{"numfich":"c140024b","path":"/img/pr/4b/c140/c140024b.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000140","obsnfp":"NFP","ref":"00001401G0","refpg":"1401 G0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0996886"},[]],["reffour",{},[["four",{},["18770B"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000819","ref":"0000143355","refpg":"1433 55"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000331","ref":"0000143356","refpg":"1433 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005109","ref":"0000141829","refpg":"1418 29"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000292","obsnfp":"NFP","ref":"00001408E3","refpg":"1408 E3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000296","ref":"00001416F4","refpg":"1416 F4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["EP 3,5"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000814","ref":"00001417N4","refpg":"1417 N4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000869","ref":"00001417N5","refpg":"1417 N5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008588","ref":"0000696212","refpg":"6962 12"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X13,7-0,8"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004651","ref":"0000693205","refpg":"6932 05"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-5"]]]]]]]]]]]]}

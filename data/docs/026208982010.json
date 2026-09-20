@@ -1,18 +1,1 @@
-{
- "ref": "026208982010",
- "refDisplay": "0262 08 982010",
- "title": "GARNITURE DE PAVILLON",
- "nature": "",
- "applicability": "BERLINE 5PTES JUSQU’A OPR 05284",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0235"
-  }
- ]
-}
+{"ref":"026208982010","refDisplay":"0262 08 982010","title":"GARNITURE DE PAVILLON","nature":"","applicability":"BERLINE 5PTES JUSQU’A OPR 05284","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0235"}],"kind":"pr","appl":"{(?1CS9)(B0DA5)/($,,1,05284)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"VW-"},[]],["thesaurus",{"type":"6","code":"TW-"},[]],["thesaurus",{"type":"6","code":"TL-"},[]],["thesaurus",{"type":"6","code":"FVW-"},[]],["thesaurus",{"type":"10","code":"003769"},[]],["thesaurus",{"type":"10","code":"007571"},[]],["thesaurus",{"type":"10","code":"004579"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"21","code":"L1013450"},[]],["thesaurus",{"type":"21","code":"L1013457"},[]],["thesaurus",{"type":"21","code":"L1013451"},[]],["thesaurus",{"type":"21","code":"L1013452"},[]],["mpr",{"catal":"0262","grp":"443","grp2":"08","maj":"20111008","numfich":"982010"},[["appl",{},["{(?1CS9)(B0DA5)/($,,1,05284)/}"]],["sti",{"ident":"NL982001"},[]],["img",{"numfich":"c9820100","path":"/img/pr/00/c982/c9820100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003769","obsnfp":"NFP","ref":"95634136VW","refpg":"95 634 136 VW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0J39)}"]],["obsligne",{"ident":"L1013450"},[]],["complpr",{"couleur":"VW-"},[]]]]]],["pr",{"codesi":"003769","obsnfp":"NFP","ref":"95637650VW","refpg":"95 637 650 VW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DTC10)}"]],["obsligne",{"ident":"L1013457"},[]],["complpr",{"couleur":"VW-"},[]]]]]],["pr",{"codesi":"003769","obsnfp":"NFP","ref":"96038143TW","refpg":"96 038 143 TW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GT)/($1,04588,,)/}"]],["obsligne",{"ident":"L1013451"},[]],["complpr",{"couleur":"TW-"},[]]]]]],["pr",{"codesi":"003769","obsnfp":"NFP","ref":"96043452TW","refpg":"96 043 452 TW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GT)(DTC10)/($1,04588,,)/}"]],["obsligne",{"ident":"L1013452"},[]],["complpr",{"couleur":"TW-"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007571","obsnfp":"NFP","ref":"92525264TL","refpg":"92 525 264 TL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%11TRE)/($,,1,04130)/}"]],["complpr",{"couleur":"TL-"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%14TRS)/($,,1,04130)/}"]],["complpr",{"couleur":"TL-"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%14TZS)/($,,1,04130)/}"]],["complpr",{"couleur":"TL-"},[]]]]]],["pr",{"codesi":"007571","obsnfp":"NFP","ref":"0000912955","refpg":"9129 55"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%11TRE)/($1,04131,,)/}"]],["complpr",{"couleur":"FVW-"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%14TRS)/($1,04131,,)/}"]],["complpr",{"couleur":"FVW-"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%14TZS)/($1,04131,,)/}"]],["complpr",{"couleur":"FVW-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004579","obsnfp":"NFP","ref":"00009128G2","refpg":"9128 G2"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"FVW-"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691792","refpg":"6917 92"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]]]]]]}

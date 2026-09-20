@@ -1,18 +1,1 @@
-{
- "ref": "026206644511",
- "refDisplay": "0262 06 644511",
- "title": "BOITIER EVAPORATEUR DETENDEUR",
- "nature": "",
- "applicability": "REFRIGERATION ET CONDUITE A GAUCHE DEPUIS OPR 05315",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"026206644511","refDisplay":"0262 06 644511","title":"BOITIER EVAPORATEUR DETENDEUR","nature":"","applicability":"REFRIGERATION ET CONDUITE A GAUCHE DEPUIS OPR 05315","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CS9)(%DRE10)(DCX01)/($1,05315,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002547"},[]],["thesaurus",{"type":"10","code":"014430"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["mpr",{"catal":"0262","grp":"466","grp2":"06","maj":"20111008","numfich":"644511"},[["appl",{},["{(?1CS9)(%DRE10)(DCX01)/($1,05315,,)/}"]],["sti",{"ident":"NL644501"},[]],["img",{"numfich":"c6445110","path":"/img/pr/10/c644/c6445110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002547","obsnfp":"NFP","ref":"0000646194","refpg":"6461 94"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DLN01)/($,,1,06535)/}"]]]]]],["pr",{"codesi":"002547","ref":"00006461A3","refpg":"6461 A3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DLN02)/($1,06536,,)/}"]]]]]],["pr",{"codesi":"014430","obsnfp":"NFP","ref":"E165406","refpg":"E165406","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DLN01)/($,,1,06535)/}"]]]]]],["pr",{"codesi":"014430","obsnfp":"NFP","ref":"E165464","refpg":"E165464","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DLN01)/($,,1,06535)/}"]]]]]],["pr",{"codesi":"014430","obsnfp":"NFP","ref":"E165409","refpg":"E165409","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DLN02)/($1,06536,,)/}"]]]]]],["pr",{"codesi":"014430","obsnfp":"NFP","ref":"E165467","refpg":"E165467","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DLN02)/($1,06536,,)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005705","ref":"00006460V0","refpg":"6460 V0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 10,82"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005705","ref":"00006460CR","refpg":"6460 CR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 14"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004682","ref":"00006913Q0","refpg":"6913 Q0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-40"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026202211252C",
- "refDisplay": "0262 02 211252C",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "SPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"026202211252C","refDisplay":"0262 02 211252C","title":"ALLUMEUR","nature":"","applicability":"SPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CS9)(B0J0N)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["mpr",{"catal":"0262","grp":"45","grp2":"02","maj":"20111008","numfich":"211252C"},[["appl",{},["{(?1CS9)(B0J0N)}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525687A"]]]],["img",{"numfich":"c211252c","path":"/img/pr/2c/c211/c211252c.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"005554","ref":"00005904K8","refpg":"5904 K8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002116","ref":"0000594035","refpg":"5940 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]]]]]]}

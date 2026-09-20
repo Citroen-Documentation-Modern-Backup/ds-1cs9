@@ -1,18 +1,1 @@
-{
- "ref": "026207856015",
- "refDisplay": "0262 07 856015",
- "title": "PLANCHE DE BORD",
- "nature": "",
- "applicability": "AVEC AERATEURS LATERAUX G+D JUSQU’A OPR 05314",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0212"
-  }
- ]
-}
+{"ref":"026207856015","refDisplay":"0262 07 856015","title":"PLANCHE DE BORD","nature":"","applicability":"AVEC AERATEURS LATERAUX G+D JUSQU’A OPR 05314","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0212"}],"kind":"pr","appl":"{(?1CS9)(%TVE01)/($,,1,05314)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"XX-"},[]],["thesaurus",{"type":"10","code":"003841"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["mpr",{"catal":"0262","grp":"411","grp2":"07","maj":"20111008","numfich":"856015"},[["appl",{},["{(?1CS9)(%TVE01)/($,,1,05314)/}"]],["sti",{"ident":"NL856001"},[]],["img",{"numfich":"c8560150","path":"/img/pr/50/c856/c8560150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003841","obsnfp":"NFP","ref":"96043105CG","refpg":"96 043 105 CG"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,04130)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]],["pr",{"codesi":"003841","obsnfp":"NFP","ref":"96043105TL","refpg":"96 043 105 TL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,04130)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]],["pr",{"codesi":"003841","obsnfp":"NFP","ref":"96043105CH","refpg":"96 043 105 CH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04131,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]],["pr",{"codesi":"003841","obsnfp":"NFP","ref":"96043105TR","refpg":"96 043 105 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04131,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]],["pr",{"codesi":"003841","obsnfp":"NFP","ref":"96043105XX","refpg":"96 043 105 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"couleur":"XX-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]],["pr",{"codesi":"003841","obsnfp":"NFP","ref":"96043104TH","refpg":"96 043 104 TH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%GT)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]],["pr",{"codesi":"003841","obsnfp":"NFP","ref":"95657873XX","refpg":"95 657 873 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(B0J4G)}"]],["complpr",{"couleur":"XX-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000692203","refpg":"6922 03"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-30"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692153","refpg":"6921 53"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004656","ref":"0000694193","refpg":"6941 93"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100"]]]]]]]]]]]]}

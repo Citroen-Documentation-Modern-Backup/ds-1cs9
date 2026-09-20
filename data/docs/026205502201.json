@@ -1,18 +1,1 @@
-{
- "ref": "026205502201",
- "refDisplay": "0262 05 502201",
- "title": "FAISCEAU SIEGES ET CEINTURES",
- "nature": "",
- "applicability": "(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026205502201","refDisplay":"0262 05 502201","title":"FAISCEAU SIEGES ET CEINTURES","nature":"","applicability":"(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CS9)(B0H09)(B0H08)(B0H07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["mpr",{"catal":"0262","grp":"524","grp2":"05","maj":"20111008","numfich":"502201"},[["appl",{},["{(?1CS9)(B0H09)(B0H08)(B0H07)}"]],["sti",{"ident":"NL502201"},[]],["img",{"numfich":"00021151","path":"/img/pr/51/0002/00021151.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"95631932","refpg":"95 631 932"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,05314)/}"]]]]]],["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96131237","refpg":"96 131 237"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,05315,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"167, 415, 11","shape":"circle"},[]]]]]]]]]]}

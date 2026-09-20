@@ -1,18 +1,1 @@
-{
- "ref": "026203416155",
- "refDisplay": "0262 03 416155",
- "title": "ROUES",
- "nature": "",
- "applicability": "MONTAGE ROUE ALLIAGE ET 1,360L ET INJECTION DEPUIS OPR 05278 SAUF ESSENCE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"026203416155","refDisplay":"0262 03 416155","title":"ROUES","nature":"","applicability":"MONTAGE ROUE ALLIAGE ET 1,360L ET INJECTION DEPUIS OPR 05278 SAUF ESSENCE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CS9)(DRP02)(%B0F136)(DAZ04)/($1,05278,,)/[(DCD10)]}","tree":["document",{},[["thesaurus",{"type":"6","code":"FVE-"},[]],["thesaurus",{"type":"10","code":"002007"},[]],["thesaurus",{"type":"10","code":"003194"},[]],["thesaurus",{"type":"10","code":"002234"},[]],["mpr",{"catal":"0262","grp":"144","grp2":"03","maj":"20111008","numfich":"416155"},[["appl",{},["{(?1CS9)(DRP02)(%B0F136)(DAZ04)/($1,05278,,)/[(DCD10)]}"]],["sti",{"ident":"NL416101"},[]],["img",{"numfich":"c4161550","path":"/img/pr/50/c416/c4161550.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002007","ref":"95602717VE","refpg":"95 602 717 VE"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)[(%GT)]}"]],["complpr",{"couleur":"FVE-"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003194","obsnfp":"NFP","ref":"95639373","refpg":"95 639 373"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%GT)}"]]]],["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%EXCLU)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 135,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002234","obsnfp":"NFP","ref":"95639385","refpg":"95 639 385"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%GT)}"]]]],["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)(%EXCLU)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026206175510B",
- "refDisplay": "0262 06 175510B",
- "title": "ASPIRATION VAPEURS CARBURANT",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET (D) ALLEMAGNE ET (NL) PAYS BAS DEPUIS OPR 04196",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"026206175510B","refDisplay":"0262 06 175510B","title":"ASPIRATION VAPEURS CARBURANT","nature":"","applicability":"ESSENCE ET 1,360L ET (D) ALLEMAGNE ET (NL) PAYS BAS DEPUIS OPR 04196","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F136)(B0H04)(B0H44)/($1,04196,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"007081"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["thesaurus",{"type":"10","code":"009767"},[]],["thesaurus",{"type":"10","code":"005832"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"000129"},[]],["thesaurus",{"type":"10","code":"005599"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0262","grp":"53","grp2":"06","maj":"20111008","numfich":"175510B"},[["appl",{},["{(?1CS9)(DCD10)(%B0F136)(B0H04)(B0H44)/($1,04196,,)/}"]],["sti",{"ident":"NL175501"},[]],["img",{"numfich":"c175510b","path":"/img/pr/0b/c175/c175510b.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"007081","obsnfp":"NFP","ref":"0000162235","refpg":"1622 35"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004777","obsnfp":"NFP","ref":"96049533","refpg":"96 049 533"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"00001628J2","refpg":"1628 J2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($1,04223,,)/}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"005832","obsnfp":"NFP","ref":"95612759","refpg":"95 612 759"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"004647","ref":"00001618AR","refpg":"1618 AR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"000129","ref":"0000162725","refpg":"1627 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"005599","ref":"5416495","refpg":"5 416 495"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"00006995CX","refpg":"6995 CX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15-25"]]]]]]]]]]]]}

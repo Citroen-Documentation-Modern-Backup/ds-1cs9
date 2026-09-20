@@ -1,18 +1,1 @@
-{
- "ref": "026201223060",
- "refDisplay": "0262 01 223060",
- "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
- "nature": "",
- "applicability": "DIESEL ET TUD3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"026201223060","refDisplay":"0262 01 223060","title":"CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE","nature":"","applicability":"DIESEL ET TUD3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CS9)(%DIESEL)(%TUD3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0262","grp":"33","grp2":"01","maj":"20111008","numfich":"223060"},[["appl",{},["{(?1CS9)(%DIESEL)(%TUD3)}"]],["sti",{"ident":"NL223001"},[]],["img",{"numfich":"00020705","path":"/img/pr/05/0002/00020705.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"00001192C6","refpg":"1192 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"381, 330, 11","shape":"circle"},[]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"339, 300, 11","shape":"circle"},[]],["area",{"coords":"416, 236, 11","shape":"circle"},[]],["area",{"coords":"44, 5, 11","shape":"circle"},[]]]]]]]]]]}

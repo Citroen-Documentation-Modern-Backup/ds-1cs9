@@ -1,18 +1,1 @@
-{
- "ref": "026204453001",
- "refDisplay": "0262 04 453001",
- "title": "CANALISATIONS DE FREIN",
- "nature": "",
- "applicability": " JUSQU’A OPR 03825",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0042"
-  }
- ]
-}
+{"ref":"026204453001","refDisplay":"0262 04 453001","title":"CANALISATIONS DE FREIN","nature":"","applicability":" JUSQU’A OPR 03825","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0042"}],"kind":"pr","appl":"{(?1CS9)/($,,1,03825)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001259"},[]],["thesaurus",{"type":"10","code":"014177"},[]],["thesaurus",{"type":"10","code":"001721"},[]],["thesaurus",{"type":"10","code":"001713"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["mpr",{"catal":"0262","grp":"235","grp2":"04","maj":"20111008","numfich":"453001"},[["appl",{},["{(?1CS9)/($,,1,03825)/}"]],["sti",{"ident":"NL453001"},[]],["enssup",{},[["refd",{},["SANS AMPLIFICATEUR"]]]],["img",{"numfich":"c4530010","path":"/img/pr/10/c453/c4530010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001259","obsnfp":"NFP","ref":"75492063","refpg":"75 492 063"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]],["pr",{"codesi":"014177","ref":"E168003","refpg":"E168003","typecommercial":"EUROREPAR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001259","ref":"95599101","refpg":"95 599 101"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["pr",{"codesi":"014177","ref":"E168081","refpg":"E168081","typecommercial":"EUROREPAR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001721","cote":"D","obsnfp":"NFP","ref":"96108948","refpg":"96 108 948"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR 1 DIAM 10/12"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001713","cote":"G","obsnfp":"NFP","ref":"96108954","refpg":"96 108 954"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR 1 DIAM 10/12"]]]]]]]]]]]]}

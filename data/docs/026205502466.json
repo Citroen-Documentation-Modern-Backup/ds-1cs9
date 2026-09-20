@@ -1,18 +1,1 @@
-{
- "ref": "026205502466",
- "refDisplay": "0262 05 502466",
- "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "MOTEUR ELECTRIQUE SA13",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"026205502466","refDisplay":"0262 05 502466","title":"FAISCEAU INTERMEDIAIRE AVANT - ARRIERE","nature":"","applicability":"MOTEUR ELECTRIQUE SA13","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CS9)(B0FE3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009325"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"21","code":"L1004107"},[]],["mpr",{"catal":"0262","grp":"506","grp2":"05","maj":"20111008","numfich":"502466"},[["appl",{},["{(?1CS9)(B0FE3)}"]],["sti",{"ident":"NL502401"},[]],["img",{"numfich":"00021162","path":"/img/pr/62/0002/00021162.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009325","obsnfp":"NFP","ref":"00006514P8","refpg":"6514 P8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["nlcfr",{},[["livre",{},["9622655080"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"387, 376, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"0000699107","refpg":"6991 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L1004107"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 13"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"383, 335, 11","shape":"circle"},[]],["area",{"coords":"44, 5, 11","shape":"circle"},[]]]]]]]]]]}

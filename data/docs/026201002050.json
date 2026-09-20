@@ -1,18 +1,1 @@
-{
- "ref": "026201002050",
- "refDisplay": "0262 01 002050",
- "title": "MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET INJECTION",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"026201002050","refDisplay":"0262 01 002050","title":"MOTEUR","nature":"","applicability":"ESSENCE ET 1,360L ET INJECTION","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CS9)(DCD10)(%B0F136)(DAZ04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"22","code":"P0004529"},[]],["thesaurus",{"type":"21","code":"L0993120"},[]],["thesaurus",{"type":"21","code":"L0993119"},[]],["mpr",{"catal":"0262","grp":"4","grp2":"01","maj":"20111008","numfich":"002050"},[["appl",{},["{(?1CS9)(DCD10)(%B0F136)(DAZ04)}"]],["sti",{"ident":"NL002001"},[]],["obspage",{"ident":"P0004529"},[]],["img",{"numfich":"c0020500","path":"/img/pr/00/c002/c0020500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135N7","refpg":"0135 N7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["obsligne",{"ident":"L0993120"},[]]]],["reporg",{},[["monte",{},["KFY"]],["monte",{},["K6B"]],["monte",{},["KFZ"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139C9","refpg":"0139 C9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(~2)}"]],["obsligne",{"ident":"L0993119"},[]]]],["reporg",{},[["monte",{},["(KFZ)"]],["monte",{},["(K6B)"]],["monte",{},["K6B"]],["monte",{},["KFZ"]]]]]]]]]]]]}

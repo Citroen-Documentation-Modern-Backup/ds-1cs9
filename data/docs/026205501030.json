@@ -1,18 +1,1 @@
-{
- "ref": "026205501030",
- "refDisplay": "0262 05 501030",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"026205501030","refDisplay":"0262 05 501030","title":"FAISCEAU AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CS9)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"005634"},[]],["thesaurus",{"type":"10","code":"003740"},[]],["thesaurus",{"type":"21","code":"L1002439"},[]],["thesaurus",{"type":"21","code":"L1002442"},[]],["thesaurus",{"type":"21","code":"L1002443"},[]],["mpr",{"catal":"0262","grp":"512","grp2":"05","maj":"20111008","numfich":"501030"},[["appl",{},["{(?1CS9)}"]],["sti",{"ident":"NL501001"},[]],["enssup",{},[["refd",{},["ADAPTATION GMV"]]]],["img",{"numfich":"00021056","path":"/img/pr/56/0002/00021056.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96131716","refpg":"96 131 716"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%B0F136)(DCD06)}"]],["obsligne",{"ident":"L1002439"},[]]]]]],["pr",{"codesi":"005634","obsnfp":"NFP","ref":"96137723","refpg":"96 137 723"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%4X4)/($1,05348,,)/}"]]]]]],["pr",{"codesi":"003740","obsnfp":"NFP","ref":"96129285","refpg":"96 129 285"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(DCD06)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"321, 248, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"00006543KW","refpg":"6543 KW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%B0F11)(%DAZ07)(B0H05)}"]],["obsligne",{"ident":"L1002442"},[]]]]]],["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96149816","refpg":"96 149 816"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)(%DAZ07)(%B0F11)(%B0HXT)}"]],["obsligne",{"ident":"L1002443"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"326, 272, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "026205561110",
- "refDisplay": "0262 05 561110",
- "title": "ESSUIE VITRE AVANT",
- "nature": "",
- "applicability": "CONDUITE A DROITE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CS9",
-   "variantKey": "",
-   "fctId": "FCT0322"
-  }
- ]
-}
+{"ref":"026205561110","refDisplay":"0262 05 561110","title":"ESSUIE VITRE AVANT","nature":"","applicability":"CONDUITE A DROITE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CS9","variantKey":"","fctId":"FCT0322"}],"kind":"pr","appl":"{(?1CS9)(DCX02)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"002737"},[]],["thesaurus",{"type":"10","code":"002580"},[]],["thesaurus",{"type":"10","code":"002816"},[]],["thesaurus",{"type":"10","code":"003057"},[]],["thesaurus",{"type":"10","code":"005553"},[]],["thesaurus",{"type":"10","code":"003536"},[]],["thesaurus",{"type":"10","code":"000903"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["thesaurus",{"type":"10","code":"004663"},[]],["mpr",{"catal":"0262","grp":"384","grp2":"05","maj":"20111008","numfich":"561110"},[["appl",{},["{(?1CS9)(DCX02)}"]],["sti",{"ident":"NL561101"},[]],["img",{"numfich":"c5611100","path":"/img/pr/00/c561/c5611100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002737","obsnfp":"NFP","ref":"95655183","refpg":"95 655 183"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002580","obsnfp":"NFP","ref":"95655184","refpg":"95 655 184"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002816","obsnfp":"NFP","ref":"95619031","refpg":"95 619 031"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003057","obsnfp":"NFP","ref":"00006426AX","refpg":"6426 AX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["550 MM"]]]]]],["pr",{"codesi":"003057","ref":"00006426R3","refpg":"6426 R3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["BOSCH - LONG 550"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006423K5","refpg":"6423 K5"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005553","obsnfp":"NFP","ref":"96055242","refpg":"96 055 242"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"matiere":"C001-"},[]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003536","obsnfp":"NFP","ref":"0000643443","refpg":"6434 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000903","ref":"95585426","refpg":"95 585 426"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T DIAM 14-16"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"00006923G6","refpg":"6923 G6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006142","ref":"0000693509","refpg":"6935 09"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-7,3-13"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006028","ref":"00006936C6","refpg":"6936 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)/($,,1,05883)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-9,7-22"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004663","ref":"0000698303","refpg":"6983 03"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CS9)}"]],["complpr",{"matiere":"C001-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10,5 - 16"]]]]]]]]]]]]}
